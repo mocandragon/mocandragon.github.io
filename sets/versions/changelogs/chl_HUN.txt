@@ -1,4 +1,19 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+CW15 — Demon Mode added.
+
+CW14 — Demon Mode removed.
+
+Swiftstrike Hunter
+rules_text: Trample, haste
+Whenever you attack, choose target attacking creature. Attach up to one target Equipment you control to it, then it gets +X/+0 until end of turn, where X is the number of equipped creatures you control.  => Trample, haste
+Whenever you attack, choose target attacking creature. Attach up to one target Equipment you control to it, then it gets +X/+0 until end of turn, where X is the number of equipped creatures you control.
+
+CW15 — Power Chord
+
+
+VERSION 2 CHANGELOG
 ====================
 
 
