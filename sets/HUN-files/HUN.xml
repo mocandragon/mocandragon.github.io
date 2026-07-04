@@ -5,7 +5,7 @@
 			<name>HUN</name>
 			<longname>Monster Hunter</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-07-04</releasedate>
+			<releasedate>2026-07-05</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -2789,8 +2789,8 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 		</card>
 		<card>
 			<name>CU04 — Great Jagras</name>
-			<text>This creature enters with a shield counter on it. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)
-Whenever this creature deals combat damage to a player, draw a card.</text>
+			<text>Vigilance
+This creature enters with a shield counter on it. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)</text>
 			<set rarity="common" picurl="https://mocandragon.github.io/sets/HUN-files/img/145.png" num="28">HUN</set>
 			<prop>
 				<layout>normal</layout>

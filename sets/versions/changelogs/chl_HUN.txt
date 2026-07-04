@@ -1,4 +1,22 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Swiftstrike Hunter
+rules_text: Trample, haste
+Whenever you attack, choose target attacking creature. Attach up to one target Equipment you control to it, then it gets +X/+0 until end of turn, where X is the number of equipped creatures you control. => Trample, haste
+Whenever you attack, choose target attacking creature. Attach up to one target Equipment you control to it, then it gets +X/+0 until end of turn, where X is the number of equipped creatures you control. 
+
+CU04 — Great Jagras
+rules_text: This creature enters with a shield counter on it. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+Whenever this creature deals combat damage to a player, draw a card. => Vigilance
+This creature enters with a shield counter on it. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+
+CA03 — Guild Airship
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
