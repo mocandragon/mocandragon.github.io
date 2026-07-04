@@ -1,0 +1,1724 @@
+﻿[
+    {
+        "card_name": "Indomitable Rey Dau",
+        "number": 20,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "155"
+    },
+    {
+        "card_name": "Ahtal-Ka",
+        "number": 24,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "61"
+    },
+    {
+        "card_name": "Vaal Hazak, the Corpse-Coated",
+        "number": 57,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "112"
+    },
+    {
+        "card_name": "Ambushing Xu Wu",
+        "number": 58,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "149"
+    },
+    {
+        "card_name": "The Meowscular Chef",
+        "number": 97,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "5"
+    },
+    {
+        "card_name": "Provisions Manager",
+        "number": 22,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "52"
+    },
+    {
+        "card_name": "The Seeker, of the First Fleet",
+        "number": 38,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "67"
+    },
+    {
+        "card_name": "Breaching Wave",
+        "number": 40,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "48"
+    },
+    {
+        "card_name": "Azure Flame Heavyweight",
+        "number": 59,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "138"
+    },
+    {
+        "card_name": "Rimeclad Jin Dahaad",
+        "number": 100,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "160"
+    },
+    {
+        "card_name": "Fiorayne, Knight of Elgado",
+        "number": 0,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "35"
+    },
+    {
+        "card_name": "Snapping Uth Duna",
+        "number": 39,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "159"
+    },
+    {
+        "card_name": "Guardian Arkveld",
+        "number": 54,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "162"
+    },
+    {
+        "card_name": "Blazing Nu Udra",
+        "number": 60,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "161"
+    },
+    {
+        "card_name": "Cohoot",
+        "number": 96,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "125"
+    },
+    {
+        "card_name": "Barioth",
+        "number": 3,
+        "shape": "adventure",
+        "set": "HUN",
+        "rotated": false,
+        "position": "57"
+    },
+    {
+        "card_name": "CU01 \u2014 Messenger Mernos",
+        "number": 25,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "66"
+    },
+    {
+        "card_name": "Tamer of the Mythic",
+        "number": 56,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "151"
+    },
+    {
+        "card_name": "Pink Rathian",
+        "number": 77,
+        "shape": "adventure",
+        "set": "HUN",
+        "rotated": false,
+        "position": "40"
+    },
+    {
+        "card_name": "Migration Path",
+        "number": 98,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "70"
+    },
+    {
+        "card_name": "Capture Expert",
+        "number": 4,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "75"
+    },
+    {
+        "card_name": "CU02 \u2014 Daimyo Hermitaur",
+        "number": 26,
+        "shape": "adventure",
+        "set": "HUN",
+        "rotated": false,
+        "position": "49"
+    },
+    {
+        "card_name": "Part Break",
+        "number": 55,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "15"
+    },
+    {
+        "card_name": "Zinogre, Lord of Lightning",
+        "number": 82,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "44"
+    },
+    {
+        "card_name": "Prepare for the Hunt",
+        "number": 99,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "4"
+    },
+    {
+        "card_name": "Lagombi",
+        "number": 21,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "6"
+    },
+    {
+        "card_name": "CU03 \u2014 Gelid Mind",
+        "number": 27,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "142"
+    },
+    {
+        "card_name": "CB01 \u2014 Bnahabra",
+        "number": 41,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "41"
+    },
+    {
+        "card_name": "Fulgur Stalker",
+        "number": 74,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "136"
+    },
+    {
+        "card_name": "CG02 \u2014 Gargwa",
+        "number": 83,
+        "shape": "adventure",
+        "set": "HUN",
+        "rotated": false,
+        "position": "7"
+    },
+    {
+        "card_name": "Valorous Stance",
+        "number": 23,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "29"
+    },
+    {
+        "card_name": "CU04 \u2014 Great Jagras",
+        "number": 28,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "145"
+    },
+    {
+        "card_name": "CB02 \u2014 Death Stench Stalker",
+        "number": 42,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "50"
+    },
+    {
+        "card_name": "Gendrome",
+        "number": 75,
+        "shape": "adventure",
+        "set": "HUN",
+        "rotated": false,
+        "position": "43"
+    },
+    {
+        "card_name": "CG04 \u2014 Guardian Palamute",
+        "number": 85,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "17"
+    },
+    {
+        "card_name": "CW01 \u2014 Inspiring Palico",
+        "number": 5,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "27"
+    },
+    {
+        "card_name": "CU06 \u2014 Specimen Catcher",
+        "number": 29,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "64"
+    },
+    {
+        "card_name": "CB03 \u2014 Mischievous Melynx",
+        "number": 43,
+        "shape": "adventure",
+        "set": "HUN",
+        "rotated": false,
+        "position": "175"
+    },
+    {
+        "card_name": "Phialcharged Strike",
+        "number": 76,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "60"
+    },
+    {
+        "card_name": "CG05 \u2014 Bulldrome",
+        "number": 86,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "68"
+    },
+    {
+        "card_name": "CW02 \u2014 Bonded Hunter",
+        "number": 6,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "13"
+    },
+    {
+        "card_name": "CU08 \u2014 Gobul",
+        "number": 31,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "143"
+    },
+    {
+        "card_name": "CB04 \u2014 Pukei-Pukei",
+        "number": 44,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "18"
+    },
+    {
+        "card_name": "Tobi-Kadachi",
+        "number": 79,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "9"
+    },
+    {
+        "card_name": "CG06 \u2014 Gruff Veteran",
+        "number": 87,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "87"
+    },
+    {
+        "card_name": "CW03 \u2014 Prepared Survivalist",
+        "number": 7,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "51"
+    },
+    {
+        "card_name": "CU10 \u2014 Safeguard the Nest",
+        "number": 32,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "89"
+    },
+    {
+        "card_name": "CB05 \u2014 Grim Harvester",
+        "number": 45,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "85"
+    },
+    {
+        "card_name": "Velociprey Swarm",
+        "number": 80,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "69"
+    },
+    {
+        "card_name": "CG07 \u2014 Bishaten",
+        "number": 88,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "101"
+    },
+    {
+        "card_name": "CW04 \u2014 Crafty Hunter",
+        "number": 8,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "157"
+    },
+    {
+        "card_name": "CU11 \u2014 Catnap",
+        "number": 33,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "137"
+    },
+    {
+        "card_name": "CB06 \u2014 Rompopolo",
+        "number": 46,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "114"
+    },
+    {
+        "card_name": "Wirebug Ride",
+        "number": 81,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "76"
+    },
+    {
+        "card_name": "CG08 \u2014 Congalala",
+        "number": 89,
+        "shape": "adventure",
+        "set": "HUN",
+        "rotated": false,
+        "position": "164"
+    },
+    {
+        "card_name": "CW05 \u2014 Placid Arzuros",
+        "number": 9,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "95"
+    },
+    {
+        "card_name": "CU12 \u2014 Aerial Style",
+        "number": 34,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "127"
+    },
+    {
+        "card_name": "CB07 \u2014 Radobaan",
+        "number": 47,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "131"
+    },
+    {
+        "card_name": "CR01 \u2014 Genprey",
+        "number": 61,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "42"
+    },
+    {
+        "card_name": "CG09 \u2014 Abiorg",
+        "number": 90,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "163"
+    },
+    {
+        "card_name": "CW06 \u2014 Great Jaggi",
+        "number": 10,
+        "shape": "transform double faced",
+        "set": "HUN",
+        "rotated": false,
+        "position": "97"
+    },
+    {
+        "card_name": "CU13 \u2014 Prey of the Qurio",
+        "number": 35,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "141"
+    },
+    {
+        "card_name": "CB08 \u2014 Swiftshadow Rescuer",
+        "number": 48,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "130"
+    },
+    {
+        "card_name": "CR02 \u2014 Scrappy Felyne",
+        "number": 62,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "47"
+    },
+    {
+        "card_name": "CG10 \u2014 Najarala",
+        "number": 91,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "166"
+    },
+    {
+        "card_name": "CW08 \u2014 Lala Barina",
+        "number": 11,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "58"
+    },
+    {
+        "card_name": "CU14 \u2014 Muck-Lurker Jyuratodus",
+        "number": 36,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "88"
+    },
+    {
+        "card_name": "CB09 \u2014 Almudron",
+        "number": 49,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "165"
+    },
+    {
+        "card_name": "CR03 \u2014 Great Wroggi",
+        "number": 63,
+        "shape": "transform double faced",
+        "set": "HUN",
+        "rotated": false,
+        "position": "135"
+    },
+    {
+        "card_name": "CG11 \u2014 Titanic Brawl",
+        "number": 92,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "168"
+    },
+    {
+        "card_name": "CW09 \u2014 Kulu-Ya-Ku",
+        "number": 12,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "92"
+    },
+    {
+        "card_name": "CU15 \u2014 Snap Out Of It!",
+        "number": 37,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "133"
+    },
+    {
+        "card_name": "CB10 \u2014 Hunter's Folly",
+        "number": 50,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "173"
+    },
+    {
+        "card_name": "CR05 \u2014 Whirlwind Duelist",
+        "number": 64,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "86"
+    },
+    {
+        "card_name": "CG13 \u2014 Supply Restock",
+        "number": 93,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "156"
+    },
+    {
+        "card_name": "CW10 \u2014 Transporter Halk",
+        "number": 13,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "140"
+    },
+    {
+        "card_name": "Breakneck Escape",
+        "number": 151,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "32"
+    },
+    {
+        "card_name": "CB13 \u2014 Lurking Khezu",
+        "number": 51,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "120"
+    },
+    {
+        "card_name": "CR06 \u2014 Volvidon",
+        "number": 65,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "94"
+    },
+    {
+        "card_name": "CG14 \u2014 Pop-Up Camp",
+        "number": 94,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "169"
+    },
+    {
+        "card_name": "CW11 \u2014 Qurupeco",
+        "number": 14,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "93"
+    },
+    {
+        "card_name": "CU03 \u2014 Great Girros",
+        "number": 152,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "0"
+    },
+    {
+        "card_name": "CB14 \u2014 Bring Down the Behemoth",
+        "number": 52,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "72"
+    },
+    {
+        "card_name": "CR08 \u2014 Tetsucabra",
+        "number": 66,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "113"
+    },
+    {
+        "card_name": "CG15 \u2014 Invader Banbaro",
+        "number": 95,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "150"
+    },
+    {
+        "card_name": "CW12 \u2014 Avalanche Tackle",
+        "number": 15,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "96"
+    },
+    {
+        "card_name": "CU04 \u2014 Gypceros",
+        "number": 153,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "24"
+    },
+    {
+        "card_name": "CB15 \u2014 Harvest the Fallen",
+        "number": 53,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "174"
+    },
+    {
+        "card_name": "CR09 \u2014 Basarios",
+        "number": 67,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "100"
+    },
+    {
+        "card_name": "CG13 \u2014 Vigorwasp Spray",
+        "number": 160,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "16"
+    },
+    {
+        "card_name": "CW13 \u2014 Nerscylla",
+        "number": 16,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "90"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CB03 \u2014 Beetleclad Bruiser",
+        "number": 154,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "139"
+    },
+    {
+        "card_name": "CR10 \u2014 Snap-Shot Bowgun",
+        "number": 68,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "170"
+    },
+    {
+        "card_name": "Wyverian Scout",
+        "number": 161,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "124"
+    },
+    {
+        "card_name": "CW14 \u2014 Impenetrable Winds",
+        "number": 17,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "38"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CB03 \u2014 Effluvium Raphinos",
+        "number": 155,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "111"
+    },
+    {
+        "card_name": "CR11 \u2014 Blazing Crescendo",
+        "number": 69,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "171"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CW15 \u2014 Power Chord",
+        "number": 18,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "158"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CR12 \u2014 Mining Mission",
+        "number": 70,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "59"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CW04 \u2014 Kecha Wacha",
+        "number": 149,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "84"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CR13 \u2014 Demondrug",
+        "number": 71,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "172"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CW13 \u2014 Ivy Trap Tactics",
+        "number": 150,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "73"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CR14 \u2014 Lightning Strike",
+        "number": 72,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "54"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CR15 \u2014 Destructive Emergence",
+        "number": 73,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "132"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CR03 \u2014 Pyrantula",
+        "number": 156,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "91"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CR04 \u2014 Aknosom",
+        "number": 157,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "26"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CR07 \u2014 Great Wroggi",
+        "number": 158,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "98"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Frenzy Virus",
+        "number": 159,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "19"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "The Caravaneer, Treasure Hunter",
+        "number": 102,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "99"
+    },
+    {
+        "card_name": "CB12 \u2014 Ominous Portent",
+        "number": 125,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "79"
+    },
+    {
+        "card_name": "Gore Magala, Nascent Elder",
+        "number": 111,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "128"
+    },
+    {
+        "card_name": "Deviljho",
+        "number": 104,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "55"
+    },
+    {
+        "card_name": "Elder Fugen of Kamura",
+        "number": 105,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "10"
+    },
+    {
+        "card_name": "Gammoth",
+        "number": 108,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "123"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Odogaron",
+        "number": 117,
+        "shape": "transform double faced",
+        "set": "HUN",
+        "rotated": false,
+        "position": "28"
+    },
+    {
+        "card_name": "Brachydios, Crushing Wyvern",
+        "number": 101,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "77"
+    },
+    {
+        "card_name": "Great Maccao",
+        "number": 112,
+        "shape": "transform double faced",
+        "set": "HUN",
+        "rotated": false,
+        "position": "152"
+    },
+    {
+        "card_name": "Malfestio",
+        "number": 114,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "21"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Resourceful Hunter",
+        "number": 119,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "3"
+    },
+    {
+        "card_name": "CG12 \u2014 Crushing Impact",
+        "number": 127,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "37"
+    },
+    {
+        "card_name": "Wyverian Chief",
+        "number": 123,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "134"
+    },
+    {
+        "card_name": "CU09 \u2014 Iron Carapace",
+        "number": 131,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "147"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CR04 \u2014 Purrloining Pirate",
+        "number": 128,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "82"
+    },
+    {
+        "card_name": "Shah Dalamadur",
+        "number": 167,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "122"
+    },
+    {
+        "card_name": "CG01 \u2014 Helpful Grimalkyne",
+        "number": 126,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "14"
+    },
+    {
+        "card_name": "Legiana",
+        "number": 163,
+        "shape": "transform double faced",
+        "set": "HUN",
+        "rotated": false,
+        "position": "1"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Hunter's Companions",
+        "number": 162,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "11"
+    },
+    {
+        "card_name": "Mizutsune",
+        "number": 164,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "20"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CU09 \u2014 Deafening Roar",
+        "number": 170,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "62"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Seltas Queen",
+        "number": 120,
+        "shape": "transform double faced",
+        "set": "HUN",
+        "rotated": false,
+        "position": "12"
+    },
+    {
+        "card_name": "Kirin, Galloping Storm",
+        "number": 113,
+        "shape": "adventure",
+        "set": "HUN",
+        "rotated": false,
+        "position": "45"
+    },
+    {
+        "card_name": "Chain of Predation",
+        "number": 103,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "22"
+    },
+    {
+        "card_name": "Gemma of Avis Unit",
+        "number": 109,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "33"
+    },
+    {
+        "card_name": "CU05 \u2014 Felyne Treasure Hunter",
+        "number": 130,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "81"
+    },
+    {
+        "card_name": "CW05 \u2014 Gajalaka Scout",
+        "number": 132,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "74"
+    },
+    {
+        "card_name": "Frederica, Valux Princess",
+        "number": 107,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "146"
+    },
+    {
+        "card_name": "CB11 \u2014 Vicious Rebirth",
+        "number": 124,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "83"
+    },
+    {
+        "card_name": "Glavenus",
+        "number": 110,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "129"
+    },
+    {
+        "card_name": "Najarala",
+        "number": 165,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "31"
+    },
+    {
+        "card_name": "Zoh Shia, Ultimate Guardian",
+        "number": 169,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "30"
+    },
+    {
+        "card_name": "Plesioth",
+        "number": 118,
+        "shape": "transform double faced",
+        "set": "HUN",
+        "rotated": false,
+        "position": "53"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Weapon Maintenance",
+        "number": 122,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "148"
+    },
+    {
+        "card_name": "Third Fleet Master",
+        "number": 168,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "8"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CR07 \u2014 Pokaradon",
+        "number": 129,
+        "shape": "adventure",
+        "set": "HUN",
+        "rotated": false,
+        "position": "80"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Swiftstrike Hunter",
+        "number": 121,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "2"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CW14 \u2014 Demon Mode",
+        "number": 133,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "46"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Fated Emergence",
+        "number": 106,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "121"
+    },
+    {
+        "card_name": "Nargacuga, Pouncing Shadow",
+        "number": 116,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "36"
+    },
+    {
+        "card_name": "Shagaru Magala, Heaven's Wheel",
+        "number": 166,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "78"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "Bunny Dango",
+        "number": 134,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "126"
+    },
+    {
+        "card_name": "CA01 \u2014 Guardian Seikret",
+        "number": 1,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "144"
+    },
+    {
+        "card_name": "CA02 \u2014 Marionette Spider",
+        "number": 2,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "177"
+    },
+    {
+        "card_name": "CA03 \u2014 Guild Airship",
+        "number": 135,
+        "shape": "adventure",
+        "set": "HUN",
+        "rotated": false,
+        "position": "179"
+    },
+    {
+        "card_name": "CA04 \u2014 Dung Bomb",
+        "number": 136,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "23"
+    },
+    {
+        "card_name": "CA05 \u2014 Hunting Trophy",
+        "number": 137,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "176"
+    },
+    {
+        "card_name": "CA06 \u2014 Diablos-Horn Spear",
+        "number": 138,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "178"
+    },
+    {
+        "card_name": "CA06 \u2014 Bubble Fox Soap",
+        "number": 171,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Pokke Village",
+        "number": 144,
+        "shape": "adventure",
+        "set": "HUN",
+        "rotated": false,
+        "position": "105"
+    },
+    {
+        "card_name": "Third Fleet Research Base",
+        "number": 147,
+        "shape": "adventure",
+        "set": "HUN",
+        "rotated": false,
+        "position": "110"
+    },
+    {
+        "card_name": "Azuz, the Everforge",
+        "number": 139,
+        "shape": "adventure",
+        "set": "HUN",
+        "rotated": false,
+        "position": "167"
+    },
+    {
+        "card_name": "Kokoto Village",
+        "number": 142,
+        "shape": "adventure",
+        "set": "HUN",
+        "rotated": false,
+        "position": "109"
+    },
+    {
+        "card_name": "Kamura Village",
+        "number": 141,
+        "shape": "adventure",
+        "set": "HUN",
+        "rotated": false,
+        "position": "102"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Elgado Outpost",
+        "number": 140,
+        "shape": "adventure",
+        "set": "HUN",
+        "rotated": false,
+        "position": "107"
+    },
+    {
+        "card_name": "Seliana",
+        "number": 145,
+        "shape": "adventure",
+        "set": "HUN",
+        "rotated": false,
+        "position": "108"
+    },
+    {
+        "card_name": "Sild, the Keeper's Vigil",
+        "number": 146,
+        "shape": "adventure",
+        "set": "HUN",
+        "rotated": false,
+        "position": "106"
+    },
+    {
+        "card_name": "Val Habar",
+        "number": 148,
+        "shape": "adventure",
+        "set": "HUN",
+        "rotated": false,
+        "position": "103"
+    },
+    {
+        "card_name": "Moga Village",
+        "number": 143,
+        "shape": "adventure",
+        "set": "HUN",
+        "rotated": false,
+        "position": "104"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "Stagger Blight",
+        "number": 1,
+        "shape": "token",
+        "set": "HUN",
+        "rotated": false,
+        "position": "71"
+    },
+    {
+        "card_name": "Human Ranger",
+        "number": 2,
+        "shape": "token",
+        "set": "HUN",
+        "rotated": false,
+        "position": "56"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->masterpiece",
+    {
+        "card_name": "Placid Arzuros",
+        "number": 1,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "116"
+    },
+    {
+        "card_name": "CU07 \u2014 Royal Ludroth",
+        "number": 2,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "119"
+    },
+    {
+        "card_name": "Vaal Hazak, The Corpse-Coated",
+        "number": 3,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "115"
+    },
+    {
+        "card_name": "Pyre Rakna-Kadaki",
+        "number": 4,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "117"
+    },
+    {
+        "card_name": "CG03 \u2014 Migratory Seikret",
+        "number": 5,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "118"
+    },
+    {
+        "card_name": "Nakarkos, Insatiable Skeleton",
+        "number": 6,
+        "shape": "normal",
+        "set": "HUN",
+        "rotated": false,
+        "position": "154"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

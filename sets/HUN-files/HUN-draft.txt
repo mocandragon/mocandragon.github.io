@@ -1,0 +1,2404 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "CU03 — Great Girros",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Lizard Beast",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/0.png"
+			}
+		},
+		{
+			"name": "Legiana",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Creature — Drake",
+			"collector_number": "163",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mocandragon.github.io/sets/HUN-files/img/1_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/1_front.png"
+			}
+		},
+		{
+			"name": "Swiftstrike Hunter",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Creature — Human Ranger",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/2.png"
+			}
+		},
+		{
+			"name": "Resourceful Hunter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Human Ranger",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/3.png"
+			}
+		},
+		{
+			"name": "Prepare for the Hunt",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/4.png"
+			}
+		},
+		{
+			"name": "The Meowscular Chef",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Cat Ranger",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/5.png"
+			}
+		},
+		{
+			"name": "Lagombi",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Rabbit Beast",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/6.png"
+			}
+		},
+		{
+			"name": "CG02 — Gargwa",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Bird",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/7.png"
+			}
+		},
+		{
+			"name": "Third Fleet Master",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Legendary Creature — Wyverian Advisor",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/8.png"
+			}
+		},
+		{
+			"name": "Tobi-Kadachi",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Lizard Squirrel",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/9.png"
+			}
+		},
+		{
+			"name": "Elder Fugen of Kamura",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Legendary Creature — Human Advisor",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/10.png"
+			}
+		},
+		{
+			"name": "Hunter's Companions",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Sorcery",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/11.png"
+			}
+		},
+		{
+			"name": "Seltas Queen",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Creature — Insect",
+			"collector_number": "120",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mocandragon.github.io/sets/HUN-files/img/12_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/12_front.png"
+			}
+		},
+		{
+			"name": "CW02 — Bonded Hunter",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Ranger",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/13.png"
+			}
+		},
+		{
+			"name": "CG01 — Helpful Grimalkyne",
+			"rarity": "common",
+			"mana_cost": "{G/W}",
+			"type": "Creature — Cat Scout",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/14.png"
+			}
+		},
+		{
+			"name": "Part Break",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/15.png"
+			}
+		},
+		{
+			"name": "CG13 — Vigorwasp Spray",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/16.png"
+			}
+		},
+		{
+			"name": "CG04 — Guardian Palamute",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Dog Ranger",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/17.png"
+			}
+		},
+		{
+			"name": "CB04 — Pukei-Pukei",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Bat Lizard Beast",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/18.png"
+			}
+		},
+		{
+			"name": "Frenzy Virus",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Aura Blight",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/19.png"
+			}
+		},
+		{
+			"name": "Mizutsune",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Creature — Fox Leviathan",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/20.png"
+			}
+		},
+		{
+			"name": "Malfestio",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Creature — Bird",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/21.png"
+			}
+		},
+		{
+			"name": "Chain of Predation",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Enchantment",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/22.png"
+			}
+		},
+		{
+			"name": "CA04 — Dung Bomb",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/23.png"
+			}
+		},
+		{
+			"name": "CU04 — Gypceros",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Bird Drake",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/24.png"
+			}
+		},
+		{
+			"name": "CA06 — Bubble Fox Soap",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/25.png"
+			}
+		},
+		{
+			"name": "CR04 — Aknosom",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Bird Drake",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/26.png"
+			}
+		},
+		{
+			"name": "CW01 — Inspiring Palico",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Cat Ranger Bard",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/27.png"
+			}
+		},
+		{
+			"name": "Odogaron",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature — Lizard Beast",
+			"collector_number": "117",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mocandragon.github.io/sets/HUN-files/img/28_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/28_front.png"
+			}
+		},
+		{
+			"name": "Valorous Stance",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/29.png"
+			}
+		},
+		{
+			"name": "Zoh Shia, Ultimate Guardian",
+			"rarity": "special",
+			"mana_cost": "{4}{W}{B}",
+			"type": "Legendary Artifact Creature — Construct",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/30.png"
+			}
+		},
+		{
+			"name": "Najarala",
+			"rarity": "special",
+			"mana_cost": "{X}{G}{U}",
+			"type": "Creature — Snake Drake",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/31.png"
+			}
+		},
+		{
+			"name": "Breakneck Escape",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/32.png"
+			}
+		},
+		{
+			"name": "Gemma of Avis Unit",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Legendary Creature — Human Artificer Ranger",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/33.png"
+			}
+		},
+		{
+			"name": "Fiorayne, Knight of Elgado",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human Knight Ranger",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/34.png"
+			}
+		},
+		{
+			"name": "Fiorayne, Knight of Elgado",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human Knight Ranger",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/35.png"
+			}
+		},
+		{
+			"name": "Nargacuga, Pouncing Shadow",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}{G}",
+			"type": "Legendary Creature — Cat Drake",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/36.png"
+			}
+		},
+		{
+			"name": "CG12 — Crushing Impact",
+			"rarity": "common",
+			"mana_cost": "{1}{R/G}",
+			"type": "Sorcery",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/37.png"
+			}
+		},
+		{
+			"name": "CW14 — Impenetrable Winds",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/38.png"
+			}
+		},
+		{
+			"name": "CG03 — Migratory Seikret",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Bird Ranger",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/39.png"
+			}
+		},
+		{
+			"name": "Pink Rathian",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Drake",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/40.png"
+			}
+		},
+		{
+			"name": "CB01 — Bnahabra",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Insect",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/41.png"
+			}
+		},
+		{
+			"name": "CR01 — Genprey",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/42.png"
+			}
+		},
+		{
+			"name": "Gendrome",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/43.png"
+			}
+		},
+		{
+			"name": "Zinogre, Lord of Lightning",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Legendary Creature — Wolf Drake",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/44.png"
+			}
+		},
+		{
+			"name": "Kirin, Galloping Storm",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Creature — Elder Kirin",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/45.png"
+			}
+		},
+		{
+			"name": "CW14 — Demon Mode",
+			"rarity": "common",
+			"mana_cost": "{1}{R/W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/46.png"
+			}
+		},
+		{
+			"name": "CR02 — Scrappy Felyne",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Cat Ranger",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/47.png"
+			}
+		},
+		{
+			"name": "Breaching Wave",
+			"rarity": "rare",
+			"mana_cost": "{6}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/48.png"
+			}
+		},
+		{
+			"name": "CU02 — Daimyo Hermitaur",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Crab",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/49.png"
+			}
+		},
+		{
+			"name": "CB02 — Death Stench Stalker",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Ranger",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/50.png"
+			}
+		},
+		{
+			"name": "CW03 — Prepared Survivalist",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Ranger",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/51.png"
+			}
+		},
+		{
+			"name": "Provisions Manager",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/52.png"
+			}
+		},
+		{
+			"name": "Plesioth",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Creature — Fish Drake",
+			"collector_number": "118",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mocandragon.github.io/sets/HUN-files/img/53_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/53_front.png"
+			}
+		},
+		{
+			"name": "CR14 — Lightning Strike",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/54.png"
+			}
+		},
+		{
+			"name": "Deviljho",
+			"rarity": "mythic",
+			"mana_cost": "{5}{R}{G}",
+			"type": "Creature — Dinosaur Beast",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/55.png"
+			}
+		},
+		{
+			"name": "Human Ranger",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Creature — Human Ranger",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/56.png"
+			}
+		},
+		{
+			"name": "Barioth",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Cat Drake",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/57.png"
+			}
+		},
+		{
+			"name": "CW08 — Lala Barina",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Spider",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/58.png"
+			}
+		},
+		{
+			"name": "CR12 — Mining Mission",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/59.png"
+			}
+		},
+		{
+			"name": "Phialcharged Strike",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/60.png"
+			}
+		},
+		{
+			"name": "Ahtal-Ka",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Insect",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/61.png"
+			}
+		},
+		{
+			"name": "CU09 — Deafening Roar",
+			"rarity": "special",
+			"mana_cost": "{1}{W/U}",
+			"type": "Instant",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/62.png"
+			}
+		},
+		{
+			"name": "Pyre Rakna-Kadaki",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Spider",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/63.png"
+			}
+		},
+		{
+			"name": "CU06 — Specimen Catcher",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Ranger",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/64.png"
+			}
+		},
+		{
+			"name": "CU07 — Royal Ludroth",
+			"rarity": "common",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Leviathan",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/65.png"
+			}
+		},
+		{
+			"name": "CU01 — Messenger Mernos",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Drake",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/66.png"
+			}
+		},
+		{
+			"name": "The Seeker, of the First Fleet",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Wyverian Ranger",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/67.png"
+			}
+		},
+		{
+			"name": "CG05 — Bulldrome",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Boar",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/68.png"
+			}
+		},
+		{
+			"name": "Velociprey Swarm",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/69.png"
+			}
+		},
+		{
+			"name": "Migration Path",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/70.png"
+			}
+		},
+		{
+			"name": "Stagger Blight",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Enchantment — Aura Blight",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/71.png"
+			}
+		},
+		{
+			"name": "CB14 — Bring Down the Behemoth",
+			"rarity": "common",
+			"mana_cost": "{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/72.png"
+			}
+		},
+		{
+			"name": "CW13 — Ivy Trap Tactics",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/73.png"
+			}
+		},
+		{
+			"name": "CW05 — Gajalaka Scout",
+			"rarity": "common",
+			"mana_cost": "{2}{W/B}",
+			"type": "Creature — Goblin Scout",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/74.png"
+			}
+		},
+		{
+			"name": "Capture Expert",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Ranger",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/75.png"
+			}
+		},
+		{
+			"name": "Wirebug Ride",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/76.png"
+			}
+		},
+		{
+			"name": "Brachydios, Crushing Wyvern",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Legendary Creature — Dinosaur Drake",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/77.png"
+			}
+		},
+		{
+			"name": "Shagaru Magala, Heaven's Wheel",
+			"rarity": "special",
+			"mana_cost": "{R}{W}{B}",
+			"type": "Legendary Creature — Elder Dragon",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/78.png"
+			}
+		},
+		{
+			"name": "CB12 — Ominous Portent",
+			"rarity": "common",
+			"mana_cost": "{U/B}{U/B}",
+			"type": "Sorcery",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/79.png"
+			}
+		},
+		{
+			"name": "CR07 — Pokaradon",
+			"rarity": "common",
+			"mana_cost": "{3}{U/R}",
+			"type": "Creature — Walrus Leviathan",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/80.png"
+			}
+		},
+		{
+			"name": "CU05 — Felyne Treasure Hunter",
+			"rarity": "common",
+			"mana_cost": "{2}{G/U}",
+			"type": "Creature — Cat Ranger",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/81.png"
+			}
+		},
+		{
+			"name": "CR04 — Purrloining Pirate",
+			"rarity": "common",
+			"mana_cost": "{2}{B/R}",
+			"type": "Creature — Cat Pirate",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/82.png"
+			}
+		},
+		{
+			"name": "CB11 — Vicious Rebirth",
+			"rarity": "common",
+			"mana_cost": "{1}{B/G}",
+			"type": "Instant",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/83.png"
+			}
+		},
+		{
+			"name": "CW04 — Kecha Wacha",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Lemur Beast",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/84.png"
+			}
+		},
+		{
+			"name": "CB05 — Grim Harvester",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Ranger",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/85.png"
+			}
+		},
+		{
+			"name": "CR05 — Whirlwind Duelist",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Ranger",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/86.png"
+			}
+		},
+		{
+			"name": "CG06 — Gruff Veteran",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Ranger",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/87.png"
+			}
+		},
+		{
+			"name": "CU14 — Muck-Lurker Jyuratodus",
+			"rarity": "common",
+			"mana_cost": "{5}{U}",
+			"type": "Creature — Fish Drake",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/88.png"
+			}
+		},
+		{
+			"name": "CU10 — Safeguard the Nest",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/89.png"
+			}
+		},
+		{
+			"name": "CW13 — Nerscylla",
+			"rarity": "common",
+			"mana_cost": "{5}{W}",
+			"type": "Creature — Spider",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/90.png"
+			}
+		},
+		{
+			"name": "CR03 — Pyrantula",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Spider",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/91.png"
+			}
+		},
+		{
+			"name": "CW09 — Kulu-Ya-Ku",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Bird Dinosaur",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/92.png"
+			}
+		},
+		{
+			"name": "CW11 — Qurupeco",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Bird Dinosaur",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/93.png"
+			}
+		},
+		{
+			"name": "CR06 — Volvidon",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Armadillo Beast",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/94.png"
+			}
+		},
+		{
+			"name": "CW05 — Placid Arzuros",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Badger Bear",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/95.png"
+			}
+		},
+		{
+			"name": "CW12 — Avalanche Tackle",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/96.png"
+			}
+		},
+		{
+			"name": "CW06 — Great Jaggi",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "10",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mocandragon.github.io/sets/HUN-files/img/97_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/97_front.png"
+			}
+		},
+		{
+			"name": "CR07 — Great Wroggi",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/98.png"
+			}
+		},
+		{
+			"name": "The Caravaneer, Treasure Hunter",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Creature — Human Scout",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/99.png"
+			}
+		},
+		{
+			"name": "CR09 — Basarios",
+			"rarity": "common",
+			"mana_cost": "{5}{R}",
+			"type": "Creature — Drake",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/100.png"
+			}
+		},
+		{
+			"name": "CG07 — Bishaten",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Lemur Beast",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/101.png"
+			}
+		},
+		{
+			"name": "Kamura Village",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Town",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/102.png"
+			}
+		},
+		{
+			"name": "Val Habar",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Town",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/103.png"
+			}
+		},
+		{
+			"name": "Moga Village",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Town",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/104.png"
+			}
+		},
+		{
+			"name": "Pokke Village",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Town",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/105.png"
+			}
+		},
+		{
+			"name": "Sild, the Keeper's Vigil",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Town",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/106.png"
+			}
+		},
+		{
+			"name": "Elgado Outpost",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Town",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/107.png"
+			}
+		},
+		{
+			"name": "Seliana",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Town",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/108.png"
+			}
+		},
+		{
+			"name": "Kokoto Village",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Town",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/109.png"
+			}
+		},
+		{
+			"name": "Third Fleet Research Base",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Town",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/110.png"
+			}
+		},
+		{
+			"name": "CB03 — Effluvium Raphinos",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Drake Germ",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/111.png"
+			}
+		},
+		{
+			"name": "Vaal Hazak, the Corpse-Coated",
+			"rarity": "mythic",
+			"mana_cost": "{6}{B}{B}",
+			"type": "Legendary Creature — Elder Dragon",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/112.png"
+			}
+		},
+		{
+			"name": "CR08 — Tetsucabra",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Frog Beast",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/113.png"
+			}
+		},
+		{
+			"name": "CB06 — Rompopolo",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Insect Dinosaur",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/114.png"
+			}
+		},
+		{
+			"name": "Vaal Hazak, The Corpse-Coated",
+			"rarity": "special",
+			"mana_cost": "{B}{B}",
+			"type": "Legendary Creature — Elder Dragon",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/115.png"
+			}
+		},
+		{
+			"name": "Placid Arzuros",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Badger Bear",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/116.png"
+			}
+		},
+		{
+			"name": "Pyre Rakna-Kadaki",
+			"rarity": "special",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Spider",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/117.png"
+			}
+		},
+		{
+			"name": "CG03 — Migratory Seikret",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Bird Ranger",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/118.png"
+			}
+		},
+		{
+			"name": "CU07 — Royal Ludroth",
+			"rarity": "special",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Leviathan",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/119.png"
+			}
+		},
+		{
+			"name": "CB13 — Lurking Khezu",
+			"rarity": "common",
+			"mana_cost": "{5}{B}",
+			"type": "Creature — Leech Drake",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/120.png"
+			}
+		},
+		{
+			"name": "Fated Emergence",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/121.png"
+			}
+		},
+		{
+			"name": "Shah Dalamadur",
+			"rarity": "special",
+			"mana_cost": "{R}{R}{G}{G}",
+			"type": "Legendary Creature — Elder Dragon Serpent",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/122.png"
+			}
+		},
+		{
+			"name": "Gammoth",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Creature — Elephant",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/123.png"
+			}
+		},
+		{
+			"name": "Wyverian Scout",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Wyverian Scout",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/124.png"
+			}
+		},
+		{
+			"name": "Cohoot",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Bird Ranger",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/125.png"
+			}
+		},
+		{
+			"name": "Bunny Dango",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Food",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/126.png"
+			}
+		},
+		{
+			"name": "CU12 — Aerial Style",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/127.png"
+			}
+		},
+		{
+			"name": "Gore Magala, Nascent Elder",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Legendary Creature — Dragon Carrier",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/128.png"
+			}
+		},
+		{
+			"name": "Glavenus",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/129.png"
+			}
+		},
+		{
+			"name": "CB08 — Swiftshadow Rescuer",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Human Ranger Ninja",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/130.png"
+			}
+		},
+		{
+			"name": "CB07 — Radobaan",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Dinosaur Beast",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/131.png"
+			}
+		},
+		{
+			"name": "CR15 — Destructive Emergence",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Instant",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/132.png"
+			}
+		},
+		{
+			"name": "CU15 — Snap Out Of It!",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/133.png"
+			}
+		},
+		{
+			"name": "Wyverian Chief",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Wyverian Advisor",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/134.png"
+			}
+		},
+		{
+			"name": "CR03 — Great Wroggi",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "63",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mocandragon.github.io/sets/HUN-files/img/135_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/135_front.png"
+			}
+		},
+		{
+			"name": "Fulgur Stalker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Ranger Ninja",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/136.png"
+			}
+		},
+		{
+			"name": "CU11 — Catnap",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/137.png"
+			}
+		},
+		{
+			"name": "Azure Flame Heavyweight",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Ranger",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/138.png"
+			}
+		},
+		{
+			"name": "CB03 — Beetleclad Bruiser",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Ranger",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/139.png"
+			}
+		},
+		{
+			"name": "CW10 — Transporter Halk",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Drake Ranger",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/140.png"
+			}
+		},
+		{
+			"name": "CU13 — Prey of the Qurio",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/141.png"
+			}
+		},
+		{
+			"name": "CU03 — Gelid Mind",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact — Equipment",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/142.png"
+			}
+		},
+		{
+			"name": "CU08 — Gobul",
+			"rarity": "common",
+			"mana_cost": "{5}{U}",
+			"type": "Creature — Fish Leviathan",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/143.png"
+			}
+		},
+		{
+			"name": "CA01 — Guardian Seikret",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Creature — Bird Construct",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/144.png"
+			}
+		},
+		{
+			"name": "CU04 — Great Jagras",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Lizard Beast",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/145.png"
+			}
+		},
+		{
+			"name": "Frederica, Valux Princess",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Creature — Human Ranger Noble",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/146.png"
+			}
+		},
+		{
+			"name": "CU09 — Iron Carapace",
+			"rarity": "common",
+			"mana_cost": "{1}{W/U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/147.png"
+			}
+		},
+		{
+			"name": "Weapon Maintenance",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}",
+			"type": "Enchantment",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/148.png"
+			}
+		},
+		{
+			"name": "Ambushing Xu Wu",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Octopus",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/149.png"
+			}
+		},
+		{
+			"name": "CG15 — Invader Banbaro",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Ox Elk Beast",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/150.png"
+			}
+		},
+		{
+			"name": "Tamer of the Mythic",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Wyverian Ranger",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/151.png"
+			}
+		},
+		{
+			"name": "Great Maccao",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "112",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mocandragon.github.io/sets/HUN-files/img/152_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/152_front.png"
+			}
+		},
+		{
+			"name": "Nakarkos, Insatiable Skeleton",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{B}{B}",
+			"type": "Legendary Creature — Elder Squid",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/153.png"
+			}
+		},
+		{
+			"name": "Nakarkos, Insatiable Skeleton",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{B}{B}",
+			"type": "Legendary Creature — Elder Squid",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/154.png"
+			}
+		},
+		{
+			"name": "Indomitable Rey Dau",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Drake",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/155.png"
+			}
+		},
+		{
+			"name": "CG13 — Supply Restock",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/156.png"
+			}
+		},
+		{
+			"name": "CW04 — Crafty Hunter",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Ranger",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/157.png"
+			}
+		},
+		{
+			"name": "CW15 — Power Chord",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/158.png"
+			}
+		},
+		{
+			"name": "Snapping Uth Duna",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Leviathan",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/159.png"
+			}
+		},
+		{
+			"name": "Rimeclad Jin Dahaad",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}{G}",
+			"type": "Creature — Leviathan",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/160.png"
+			}
+		},
+		{
+			"name": "Blazing Nu Udra",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Octopus",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/161.png"
+			}
+		},
+		{
+			"name": "Guardian Arkveld",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Drake Construct",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/162.png"
+			}
+		},
+		{
+			"name": "CG09 — Abiorg",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/163.png"
+			}
+		},
+		{
+			"name": "CG08 — Congalala",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Ape",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/164.png"
+			}
+		},
+		{
+			"name": "CB09 — Almudron",
+			"rarity": "common",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Leviathan",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/165.png"
+			}
+		},
+		{
+			"name": "CG10 — Najarala",
+			"rarity": "common",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Snake Drake",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/166.png"
+			}
+		},
+		{
+			"name": "Azuz, the Everforge",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Town",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/167.png"
+			}
+		},
+		{
+			"name": "CG11 — Titanic Brawl",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/168.png"
+			}
+		},
+		{
+			"name": "CG14 — Pop-Up Camp",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Artifact",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/169.png"
+			}
+		},
+		{
+			"name": "CR10 — Snap-Shot Bowgun",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/170.png"
+			}
+		},
+		{
+			"name": "CR11 — Blazing Crescendo",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/171.png"
+			}
+		},
+		{
+			"name": "CR13 — Demondrug",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/172.png"
+			}
+		},
+		{
+			"name": "CB10 — Hunter's Folly",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/173.png"
+			}
+		},
+		{
+			"name": "CB15 — Harvest the Fallen",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/174.png"
+			}
+		},
+		{
+			"name": "CB03 — Mischievous Melynx",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Cat Rogue",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/175.png"
+			}
+		},
+		{
+			"name": "CA05 — Hunting Trophy",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/176.png"
+			}
+		},
+		{
+			"name": "CA02 — Marionette Spider",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Creature — Spider",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/177.png"
+			}
+		},
+		{
+			"name": "CA06 — Diablos-Horn Spear",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/178.png"
+			}
+		},
+		{
+			"name": "CA03 — Guild Airship",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/179.png"
+			}
+		}
+	]
+
+[rare(1)]
+	2 The Meowscular Chef
+	2 Elder Fugen of Kamura
+	2 Chain of Predation
+	2 Gemma of Avis Unit
+	2 Nargacuga, Pouncing Shadow
+	2 Pink Rathian
+	2 Zinogre, Lord of Lightning
+	1 Kirin, Galloping Storm
+	2 Breaching Wave
+	2 Provisions Manager
+	1 Deviljho
+	2 Ahtal-Ka
+	2 The Seeker, of the First Fleet
+	2 Brachydios, Crushing Wyvern
+	2 The Caravaneer, Treasure Hunter
+	1 Vaal Hazak, the Corpse-Coated
+	2 Fated Emergence
+	2 Gammoth
+	1 Gore Magala, Nascent Elder
+	2 Glavenus
+	2 Azure Flame Heavyweight
+	2 Frederica, Valux Princess
+	2 Weapon Maintenance
+	1 Ambushing Xu Wu
+	2 Tamer of the Mythic
+	1 Nakarkos, Insatiable Skeleton
+	2 Indomitable Rey Dau
+	2 Snapping Uth Duna
+	2 Rimeclad Jin Dahaad
+	2 Blazing Nu Udra
+	2 Guardian Arkveld
+[uncommon(3)]
+	4 Swiftstrike Hunter
+	4 Resourceful Hunter
+	4 Prepare for the Hunt
+	4 Lagombi
+	4 Tobi-Kadachi
+	4 Seltas Queen
+	4 Part Break
+	4 Malfestio
+	4 Odogaron
+	4 Valorous Stance
+	4 Fiorayne, Knight of Elgado
+	4 Fiorayne, Knight of Elgado
+	4 Gendrome
+	4 Plesioth
+	4 Barioth
+	4 Phialcharged Strike
+	4 Pyre Rakna-Kadaki
+	4 Velociprey Swarm
+	4 Migration Path
+	4 Capture Expert
+	4 Wirebug Ride
+	4 Cohoot
+	4 Bunny Dango
+	4 Wyverian Chief
+	4 Fulgur Stalker
+	4 Great Maccao
+[common(6)]
+	8 CG02 — Gargwa
+	8 CW02 — Bonded Hunter
+	8 CG01 — Helpful Grimalkyne
+	8 CG04 — Guardian Palamute
+	8 CB04 — Pukei-Pukei
+	8 CA04 — Dung Bomb
+	8 CW01 — Inspiring Palico
+	8 CG12 — Crushing Impact
+	8 CW14 — Impenetrable Winds
+	8 CG03 — Migratory Seikret
+	8 CB01 — Bnahabra
+	8 CR01 — Genprey
+	8 CW14 — Demon Mode
+	8 CR02 — Scrappy Felyne
+	8 CU02 — Daimyo Hermitaur
+	8 CB02 — Death Stench Stalker
+	8 CW03 — Prepared Survivalist
+	8 CR14 — Lightning Strike
+	8 CW08 — Lala Barina
+	8 CR12 — Mining Mission
+	8 CU06 — Specimen Catcher
+	8 CU07 — Royal Ludroth
+	8 CU01 — Messenger Mernos
+	8 CG05 — Bulldrome
+	8 CB14 — Bring Down the Behemoth
+	8 CW05 — Gajalaka Scout
+	8 CB12 — Ominous Portent
+	8 CR07 — Pokaradon
+	8 CU05 — Felyne Treasure Hunter
+	8 CR04 — Purrloining Pirate
+	8 CB11 — Vicious Rebirth
+	8 CB05 — Grim Harvester
+	8 CR05 — Whirlwind Duelist
+	8 CG06 — Gruff Veteran
+	8 CU14 — Muck-Lurker Jyuratodus
+	8 CU10 — Safeguard the Nest
+	8 CW13 — Nerscylla
+	8 CW09 — Kulu-Ya-Ku
+	8 CW11 — Qurupeco
+	8 CR06 — Volvidon
+	8 CW05 — Placid Arzuros
+	8 CW12 — Avalanche Tackle
+	8 CW06 — Great Jaggi
+	8 CR09 — Basarios
+	8 CG07 — Bishaten
+	8 Kamura Village
+	8 Val Habar
+	8 Moga Village
+	8 Pokke Village
+	8 Sild, the Keeper's Vigil
+	8 Elgado Outpost
+	8 Seliana
+	8 Kokoto Village
+	8 Third Fleet Research Base
+	8 CR08 — Tetsucabra
+	8 CB06 — Rompopolo
+	8 CB13 — Lurking Khezu
+	8 CU12 — Aerial Style
+	8 CB08 — Swiftshadow Rescuer
+	8 CB07 — Radobaan
+	8 CR15 — Destructive Emergence
+	8 CU15 — Snap Out Of It!
+	8 CR03 — Great Wroggi
+	8 CU11 — Catnap
+	8 CW10 — Transporter Halk
+	8 CU13 — Prey of the Qurio
+	8 CU03 — Gelid Mind
+	8 CU08 — Gobul
+	8 CA01 — Guardian Seikret
+	8 CU04 — Great Jagras
+	8 CU09 — Iron Carapace
+	8 CG15 — Invader Banbaro
+	8 CG13 — Supply Restock
+	8 CW04 — Crafty Hunter
+	8 CW15 — Power Chord
+	8 CG09 — Abiorg
+	8 CG08 — Congalala
+	8 CB09 — Almudron
+	8 CG10 — Najarala
+	8 Azuz, the Everforge
+	8 CG11 — Titanic Brawl
+	8 CG14 — Pop-Up Camp
+	8 CR10 — Snap-Shot Bowgun
+	8 CR11 — Blazing Crescendo
+	8 CR13 — Demondrug
+	8 CB10 — Hunter's Folly
+	8 CB15 — Harvest the Fallen
+	8 CB03 — Mischievous Melynx
+	8 CA05 — Hunting Trophy
+	8 CA02 — Marionette Spider
+	8 CA06 — Diablos-Horn Spear
+	8 CA03 — Guild Airship
+[common | masterpiece(1)]
+	8 CG02 — Gargwa
+	8 CW02 — Bonded Hunter
+	8 CG01 — Helpful Grimalkyne
+	8 CG04 — Guardian Palamute
+	8 CB04 — Pukei-Pukei
+	8 CA04 — Dung Bomb
+	8 CW01 — Inspiring Palico
+	8 CG12 — Crushing Impact
+	8 CW14 — Impenetrable Winds
+	8 CG03 — Migratory Seikret
+	8 CB01 — Bnahabra
+	8 CR01 — Genprey
+	8 CW14 — Demon Mode
+	8 CR02 — Scrappy Felyne
+	8 CU02 — Daimyo Hermitaur
+	8 CB02 — Death Stench Stalker
+	8 CW03 — Prepared Survivalist
+	8 CR14 — Lightning Strike
+	8 CW08 — Lala Barina
+	8 CR12 — Mining Mission
+	8 CU06 — Specimen Catcher
+	8 CU07 — Royal Ludroth
+	8 CU01 — Messenger Mernos
+	8 CG05 — Bulldrome
+	8 CB14 — Bring Down the Behemoth
+	8 CW05 — Gajalaka Scout
+	8 CB12 — Ominous Portent
+	8 CR07 — Pokaradon
+	8 CU05 — Felyne Treasure Hunter
+	8 CR04 — Purrloining Pirate
+	8 CB11 — Vicious Rebirth
+	8 CB05 — Grim Harvester
+	8 CR05 — Whirlwind Duelist
+	8 CG06 — Gruff Veteran
+	8 CU14 — Muck-Lurker Jyuratodus
+	8 CU10 — Safeguard the Nest
+	8 CW13 — Nerscylla
+	8 CW09 — Kulu-Ya-Ku
+	8 CW11 — Qurupeco
+	8 CR06 — Volvidon
+	8 CW05 — Placid Arzuros
+	8 CW12 — Avalanche Tackle
+	8 CW06 — Great Jaggi
+	8 CR09 — Basarios
+	8 CG07 — Bishaten
+	8 Kamura Village
+	8 Val Habar
+	8 Moga Village
+	8 Pokke Village
+	8 Sild, the Keeper's Vigil
+	8 Elgado Outpost
+	8 Seliana
+	8 Kokoto Village
+	8 Third Fleet Research Base
+	8 CR08 — Tetsucabra
+	8 CB06 — Rompopolo
+	3 Vaal Hazak, The Corpse-Coated
+	3 Placid Arzuros
+	3 Pyre Rakna-Kadaki
+	3 CG03 — Migratory Seikret
+	3 CU07 — Royal Ludroth
+	8 CB13 — Lurking Khezu
+	8 CU12 — Aerial Style
+	8 CB08 — Swiftshadow Rescuer
+	8 CB07 — Radobaan
+	8 CR15 — Destructive Emergence
+	8 CU15 — Snap Out Of It!
+	8 CR03 — Great Wroggi
+	8 CU11 — Catnap
+	8 CW10 — Transporter Halk
+	8 CU13 — Prey of the Qurio
+	8 CU03 — Gelid Mind
+	8 CU08 — Gobul
+	8 CA01 — Guardian Seikret
+	8 CU04 — Great Jagras
+	8 CU09 — Iron Carapace
+	8 CG15 — Invader Banbaro
+	3 Nakarkos, Insatiable Skeleton
+	8 CG13 — Supply Restock
+	8 CW04 — Crafty Hunter
+	8 CW15 — Power Chord
+	8 CG09 — Abiorg
+	8 CG08 — Congalala
+	8 CB09 — Almudron
+	8 CG10 — Najarala
+	8 Azuz, the Everforge
+	8 CG11 — Titanic Brawl
+	8 CG14 — Pop-Up Camp
+	8 CR10 — Snap-Shot Bowgun
+	8 CR11 — Blazing Crescendo
+	8 CR13 — Demondrug
+	8 CB10 — Hunter's Folly
+	8 CB15 — Harvest the Fallen
+	8 CB03 — Mischievous Melynx
+	8 CA05 — Hunting Trophy
+	8 CA02 — Marionette Spider
+	8 CA06 — Diablos-Horn Spear
+	8 CA03 — Guild Airship
+[foil(1)]
+	6 Swiftstrike Hunter
+	6 Resourceful Hunter
+	6 Prepare for the Hunt
+	2 The Meowscular Chef
+	6 Lagombi
+	12 CG02 — Gargwa
+	6 Tobi-Kadachi
+	2 Elder Fugen of Kamura
+	6 Seltas Queen
+	12 CW02 — Bonded Hunter
+	12 CG01 — Helpful Grimalkyne
+	6 Part Break
+	12 CG04 — Guardian Palamute
+	12 CB04 — Pukei-Pukei
+	6 Malfestio
+	2 Chain of Predation
+	12 CA04 — Dung Bomb
+	12 CW01 — Inspiring Palico
+	6 Odogaron
+	6 Valorous Stance
+	2 Gemma of Avis Unit
+	6 Fiorayne, Knight of Elgado
+	6 Fiorayne, Knight of Elgado
+	2 Nargacuga, Pouncing Shadow
+	12 CG12 — Crushing Impact
+	12 CW14 — Impenetrable Winds
+	12 CG03 — Migratory Seikret
+	2 Pink Rathian
+	12 CB01 — Bnahabra
+	12 CR01 — Genprey
+	6 Gendrome
+	2 Zinogre, Lord of Lightning
+	1 Kirin, Galloping Storm
+	12 CW14 — Demon Mode
+	12 CR02 — Scrappy Felyne
+	2 Breaching Wave
+	12 CU02 — Daimyo Hermitaur
+	12 CB02 — Death Stench Stalker
+	12 CW03 — Prepared Survivalist
+	2 Provisions Manager
+	6 Plesioth
+	12 CR14 — Lightning Strike
+	1 Deviljho
+	6 Barioth
+	12 CW08 — Lala Barina
+	12 CR12 — Mining Mission
+	6 Phialcharged Strike
+	2 Ahtal-Ka
+	6 Pyre Rakna-Kadaki
+	12 CU06 — Specimen Catcher
+	12 CU07 — Royal Ludroth
+	12 CU01 — Messenger Mernos
+	2 The Seeker, of the First Fleet
+	12 CG05 — Bulldrome
+	6 Velociprey Swarm
+	6 Migration Path
+	12 CB14 — Bring Down the Behemoth
+	12 CW05 — Gajalaka Scout
+	6 Capture Expert
+	6 Wirebug Ride
+	2 Brachydios, Crushing Wyvern
+	12 CB12 — Ominous Portent
+	12 CR07 — Pokaradon
+	12 CU05 — Felyne Treasure Hunter
+	12 CR04 — Purrloining Pirate
+	12 CB11 — Vicious Rebirth
+	12 CB05 — Grim Harvester
+	12 CR05 — Whirlwind Duelist
+	12 CG06 — Gruff Veteran
+	12 CU14 — Muck-Lurker Jyuratodus
+	12 CU10 — Safeguard the Nest
+	12 CW13 — Nerscylla
+	12 CW09 — Kulu-Ya-Ku
+	12 CW11 — Qurupeco
+	12 CR06 — Volvidon
+	12 CW05 — Placid Arzuros
+	12 CW12 — Avalanche Tackle
+	12 CW06 — Great Jaggi
+	2 The Caravaneer, Treasure Hunter
+	12 CR09 — Basarios
+	12 CG07 — Bishaten
+	12 Kamura Village
+	12 Val Habar
+	12 Moga Village
+	12 Pokke Village
+	12 Sild, the Keeper's Vigil
+	12 Elgado Outpost
+	12 Seliana
+	12 Kokoto Village
+	12 Third Fleet Research Base
+	1 Vaal Hazak, the Corpse-Coated
+	12 CR08 — Tetsucabra
+	12 CB06 — Rompopolo
+	12 CB13 — Lurking Khezu
+	2 Fated Emergence
+	2 Gammoth
+	6 Cohoot
+	6 Bunny Dango
+	12 CU12 — Aerial Style
+	1 Gore Magala, Nascent Elder
+	2 Glavenus
+	12 CB08 — Swiftshadow Rescuer
+	12 CB07 — Radobaan
+	12 CR15 — Destructive Emergence
+	12 CU15 — Snap Out Of It!
+	6 Wyverian Chief
+	12 CR03 — Great Wroggi
+	6 Fulgur Stalker
+	12 CU11 — Catnap
+	2 Azure Flame Heavyweight
+	12 CW10 — Transporter Halk
+	12 CU13 — Prey of the Qurio
+	12 CU03 — Gelid Mind
+	12 CU08 — Gobul
+	12 CA01 — Guardian Seikret
+	12 CU04 — Great Jagras
+	2 Frederica, Valux Princess
+	12 CU09 — Iron Carapace
+	2 Weapon Maintenance
+	1 Ambushing Xu Wu
+	12 CG15 — Invader Banbaro
+	2 Tamer of the Mythic
+	6 Great Maccao
+	1 Nakarkos, Insatiable Skeleton
+	2 Indomitable Rey Dau
+	12 CG13 — Supply Restock
+	12 CW04 — Crafty Hunter
+	12 CW15 — Power Chord
+	2 Snapping Uth Duna
+	2 Rimeclad Jin Dahaad
+	2 Blazing Nu Udra
+	2 Guardian Arkveld
+	12 CG09 — Abiorg
+	12 CG08 — Congalala
+	12 CB09 — Almudron
+	12 CG10 — Najarala
+	12 Azuz, the Everforge
+	12 CG11 — Titanic Brawl
+	12 CG14 — Pop-Up Camp
+	12 CR10 — Snap-Shot Bowgun
+	12 CR11 — Blazing Crescendo
+	12 CR13 — Demondrug
+	12 CB10 — Hunter's Folly
+	12 CB15 — Harvest the Fallen
+	12 CB03 — Mischievous Melynx
+	12 CA05 — Hunting Trophy
+	12 CA02 — Marionette Spider
+	12 CA06 — Diablos-Horn Spear
+	12 CA03 — Guild Airship
+[wildcard(1)]
+	15 Swiftstrike Hunter
+	15 Resourceful Hunter
+	15 Prepare for the Hunt
+	7 The Meowscular Chef
+	15 Lagombi
+	6 CG02 — Gargwa
+	15 Tobi-Kadachi
+	7 Elder Fugen of Kamura
+	15 Seltas Queen
+	6 CW02 — Bonded Hunter
+	6 CG01 — Helpful Grimalkyne
+	15 Part Break
+	6 CG04 — Guardian Palamute
+	6 CB04 — Pukei-Pukei
+	15 Malfestio
+	7 Chain of Predation
+	6 CA04 — Dung Bomb
+	6 CW01 — Inspiring Palico
+	15 Odogaron
+	15 Valorous Stance
+	7 Gemma of Avis Unit
+	15 Fiorayne, Knight of Elgado
+	15 Fiorayne, Knight of Elgado
+	7 Nargacuga, Pouncing Shadow
+	6 CG12 — Crushing Impact
+	6 CW14 — Impenetrable Winds
+	6 CG03 — Migratory Seikret
+	7 Pink Rathian
+	6 CB01 — Bnahabra
+	6 CR01 — Genprey
+	15 Gendrome
+	7 Zinogre, Lord of Lightning
+	4 Kirin, Galloping Storm
+	6 CW14 — Demon Mode
+	6 CR02 — Scrappy Felyne
+	7 Breaching Wave
+	6 CU02 — Daimyo Hermitaur
+	6 CB02 — Death Stench Stalker
+	6 CW03 — Prepared Survivalist
+	7 Provisions Manager
+	15 Plesioth
+	6 CR14 — Lightning Strike
+	4 Deviljho
+	15 Barioth
+	6 CW08 — Lala Barina
+	6 CR12 — Mining Mission
+	15 Phialcharged Strike
+	7 Ahtal-Ka
+	15 Pyre Rakna-Kadaki
+	6 CU06 — Specimen Catcher
+	6 CU07 — Royal Ludroth
+	6 CU01 — Messenger Mernos
+	7 The Seeker, of the First Fleet
+	6 CG05 — Bulldrome
+	15 Velociprey Swarm
+	15 Migration Path
+	6 CB14 — Bring Down the Behemoth
+	6 CW05 — Gajalaka Scout
+	15 Capture Expert
+	15 Wirebug Ride
+	7 Brachydios, Crushing Wyvern
+	6 CB12 — Ominous Portent
+	6 CR07 — Pokaradon
+	6 CU05 — Felyne Treasure Hunter
+	6 CR04 — Purrloining Pirate
+	6 CB11 — Vicious Rebirth
+	6 CB05 — Grim Harvester
+	6 CR05 — Whirlwind Duelist
+	6 CG06 — Gruff Veteran
+	6 CU14 — Muck-Lurker Jyuratodus
+	6 CU10 — Safeguard the Nest
+	6 CW13 — Nerscylla
+	6 CW09 — Kulu-Ya-Ku
+	6 CW11 — Qurupeco
+	6 CR06 — Volvidon
+	6 CW05 — Placid Arzuros
+	6 CW12 — Avalanche Tackle
+	6 CW06 — Great Jaggi
+	7 The Caravaneer, Treasure Hunter
+	6 CR09 — Basarios
+	6 CG07 — Bishaten
+	6 Kamura Village
+	6 Val Habar
+	6 Moga Village
+	6 Pokke Village
+	6 Sild, the Keeper's Vigil
+	6 Elgado Outpost
+	6 Seliana
+	6 Kokoto Village
+	6 Third Fleet Research Base
+	4 Vaal Hazak, the Corpse-Coated
+	6 CR08 — Tetsucabra
+	6 CB06 — Rompopolo
+	6 CB13 — Lurking Khezu
+	7 Fated Emergence
+	7 Gammoth
+	15 Cohoot
+	15 Bunny Dango
+	6 CU12 — Aerial Style
+	4 Gore Magala, Nascent Elder
+	7 Glavenus
+	6 CB08 — Swiftshadow Rescuer
+	6 CB07 — Radobaan
+	6 CR15 — Destructive Emergence
+	6 CU15 — Snap Out Of It!
+	15 Wyverian Chief
+	6 CR03 — Great Wroggi
+	15 Fulgur Stalker
+	6 CU11 — Catnap
+	7 Azure Flame Heavyweight
+	6 CW10 — Transporter Halk
+	6 CU13 — Prey of the Qurio
+	6 CU03 — Gelid Mind
+	6 CU08 — Gobul
+	6 CA01 — Guardian Seikret
+	6 CU04 — Great Jagras
+	7 Frederica, Valux Princess
+	6 CU09 — Iron Carapace
+	7 Weapon Maintenance
+	4 Ambushing Xu Wu
+	6 CG15 — Invader Banbaro
+	7 Tamer of the Mythic
+	15 Great Maccao
+	4 Nakarkos, Insatiable Skeleton
+	7 Indomitable Rey Dau
+	6 CG13 — Supply Restock
+	6 CW04 — Crafty Hunter
+	6 CW15 — Power Chord
+	7 Snapping Uth Duna
+	7 Rimeclad Jin Dahaad
+	7 Blazing Nu Udra
+	7 Guardian Arkveld
+	6 CG09 — Abiorg
+	6 CG08 — Congalala
+	6 CB09 — Almudron
+	6 CG10 — Najarala
+	6 Azuz, the Everforge
+	6 CG11 — Titanic Brawl
+	6 CG14 — Pop-Up Camp
+	6 CR10 — Snap-Shot Bowgun
+	6 CR11 — Blazing Crescendo
+	6 CR13 — Demondrug
+	6 CB10 — Hunter's Folly
+	6 CB15 — Harvest the Fallen
+	6 CB03 — Mischievous Melynx
+	6 CA05 — Hunting Trophy
+	6 CA02 — Marionette Spider
+	6 CA06 — Diablos-Horn Spear
+	6 CA03 — Guild Airship
