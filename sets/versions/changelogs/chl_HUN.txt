@@ -1,4 +1,12 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+
+
+CW05 — Placid Arzuros
+
+
+VERSION 3 CHANGELOG
 ====================
 
 CW15 — Demon Mode added.
