@@ -1609,6 +1609,30 @@
     },
     "a->token",
     {
+        "card_name": "Component",
+        "number": 6,
+        "shape": "token",
+        "set": "HUN",
+        "rotated": false,
+        "position": "182"
+    },
+    {
+        "card_name": "Food",
+        "number": 7,
+        "shape": "token",
+        "set": "HUN",
+        "rotated": false,
+        "position": "183"
+    },
+    {
+        "card_name": "Weapon",
+        "number": 8,
+        "shape": "token",
+        "set": "HUN",
+        "rotated": false,
+        "position": "185"
+    },
+    {
         "card_name": "Stagger Blight",
         "number": 1,
         "shape": "token",
@@ -1617,15 +1641,36 @@
         "position": "71"
     },
     {
-        "card_name": "Human Ranger",
+        "card_name": "Cat Ranger",
         "number": 2,
         "shape": "token",
         "set": "HUN",
         "rotated": false,
-        "position": "56"
+        "position": "180"
     },
     {
-        "card_name": "e"
+        "card_name": "White Ranger Token",
+        "number": 3,
+        "shape": "token",
+        "set": "HUN",
+        "rotated": false,
+        "position": "181"
+    },
+    {
+        "card_name": "Insect",
+        "number": 4,
+        "shape": "token",
+        "set": "HUN",
+        "rotated": false,
+        "position": "184"
+    },
+    {
+        "card_name": "Human Ranger",
+        "number": 5,
+        "shape": "token",
+        "set": "HUN",
+        "rotated": false,
+        "position": "56"
     },
     {
         "card_name": "e"

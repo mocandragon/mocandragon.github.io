@@ -139,6 +139,7 @@ Whenever you sacrifice an artifact, put a +1/+1 counter on target Ranger you con
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">Food</related>
 		</card>
 		<card>
 			<name>Lagombi</name>
@@ -179,6 +180,7 @@ Create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this 
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">Food</related>
 		</card>
 		<card>
 			<name>Third Fleet Master</name>
@@ -312,6 +314,7 @@ Equip {2}
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">Insect</related>
 		</card>
 		<card>
 			<name>CG01 — Helpful Grimalkyne</name>
@@ -330,6 +333,7 @@ When this creature dies, create a 1/1 white Cat Ranger creature token.</text>
 				<pt>0/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">Cat Ranger</related>
 		</card>
 		<card>
 			<name>Part Break</name>
@@ -348,6 +352,7 @@ Enchanted creature gets -2/-2.</text>
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<related count="1">Component</related>
 		</card>
 		<card>
 			<name>CG13 — Vigorwasp Spray</name>
@@ -707,6 +712,7 @@ Whenever Fiorayne attacks, create a 1/1 red Human Ranger creature token that&apo
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">Human Ranger</related>
 		</card>
 		<card>
 			<name>Fiorayne, Knight of Elgado</name>
@@ -838,6 +844,7 @@ When this creature enters, if it wasn&apos;t cast from your hand, create a 1/1 w
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">Insect</related>
 		</card>
 		<card>
 			<name>CR01 — Genprey</name>
@@ -880,6 +887,7 @@ This creature enters with a +1/+1 counter on it if an opponent lost life this tu
 				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse-related>Genprey</reverse-related>
 		</card>
 		<card>
 			<name>Zinogre, Lord of Lightning</name>
@@ -1027,6 +1035,7 @@ At the beginning of your end step, if you sacrificed a permanent this turn, put 
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">Weapon</related>
 		</card>
 		<card>
 			<name>Provisions Manager</name>
@@ -1044,6 +1053,7 @@ At the beginning of your end step, if you sacrificed a permanent this turn, put 
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">Weapon</related>
 		</card>
 		<card>
 			<name>Plesioth</name>
@@ -1126,11 +1136,11 @@ Whenever a creature an opponent controls is dealt excess damage, if a source you
 		<card>
 			<name>Human Ranger HUN</name>
 			<text></text>
-			<set rarity="common" picurl="https://mocandragon.github.io/sets/HUN-files/img/56.png" num="2">HUN</set>
+			<set rarity="common" picurl="https://mocandragon.github.io/sets/HUN-files/img/56.png" num="5">HUN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Human Ranger</type>
+				<type>Token Creature — Human Ranger</type>
 				<maintype>Creature</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
@@ -1196,6 +1206,7 @@ Create a Component token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice 
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<related count="1">Component</related>
 		</card>
 		<card>
 			<name>Phialcharged Strike</name>
@@ -1230,6 +1241,7 @@ At the beginning of combat on your turn, put a number of +1/+1 counters equal to
 				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">Component</related>
 		</card>
 		<card>
 			<name>CU09 — Deafening Roar</name>
@@ -1320,6 +1332,7 @@ Islandcycling {2} ({2}, Discard this card: Search your library for an Island car
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">Component</related>
 		</card>
 		<card>
 			<name>The Seeker, of the First Fleet</name>
@@ -1459,6 +1472,7 @@ Enchanted creature can&apos;t attack or block.
 				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">Cat Ranger</related>
 		</card>
 		<card>
 			<name>Capture Expert</name>
@@ -1603,6 +1617,7 @@ You may discard a card. If you do, draw two cards.</text>
 				<pt>2/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">Component</related>
 		</card>
 		<card>
 			<name>CB11 — Vicious Rebirth</name>
@@ -1674,6 +1689,7 @@ You may discard a card. If you do, draw two cards.</text>
 				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">Component</related>
 		</card>
 		<card>
 			<name>CG06 — Gruff Veteran</name>
@@ -1727,6 +1743,7 @@ When this permanent enters, up to one target creature&apos;s owner puts it on th
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<related count="1">Component</related>
 		</card>
 		<card>
 			<name>CW13 — Nerscylla</name>
@@ -1782,6 +1799,7 @@ Whenever one or more counters are removed from this creature, create a Food toke
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">Food</related>
 		</card>
 		<card>
 			<name>CW11 — Qurupeco</name>
@@ -1953,6 +1971,7 @@ When this permanent leaves the battlefield, sacrifice a land.</text>
 				<pt>5/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse-related>Mountain</reverse-related>
 		</card>
 		<card>
 			<name>CG07 — Bishaten</name>
@@ -1973,6 +1992,7 @@ When this creature enters, choose one—
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">Food</related>
 		</card>
 		<card>
 			<name>Kamura Village // Forge Gear</name>
@@ -2585,6 +2605,7 @@ Tokens you control have exalted. (Whenever a creature you control attacks alone,
 				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">Food</related>
 		</card>
 		<card>
 			<name>CR03 — Great Wroggi</name>
@@ -2714,6 +2735,7 @@ When this creature enters, create a 2/2 white Human Ranger creature token.</text
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">White Ranger Token</related>
 		</card>
 		<card>
 			<name>CU13 — Prey of the Qurio</name>
@@ -2752,6 +2774,7 @@ Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<related count="1">Human Ranger</related>
 		</card>
 		<card>
 			<name>CU08 — Gobul</name>
@@ -2862,7 +2885,7 @@ Enchanted creature gets +1/+1.</text>
 		<card>
 			<name>Ambushing Xu Wu</name>
 			<text>Double strike, haste
-Whenever this creature attacks, if you&apos;ve invaded this turn, create a colorless Equipment artifact token named Hunting Knife and attach it to this creature. It has &quot;Equipped creature gets +1/+1&quot; and equip {2}. (You invade when you cast spells from outside your hand, or nontoken creatures you control that weren&apos;t cast enter.)</text>
+Whenever this creature attacks, if you&apos;ve invaded this turn, create a Weapon token and attach it to this creature. (You invade when you cast spells from outside your hand, or nontoken creatures you control that weren&apos;t cast enter. A Weapon token is an Equipment artifact with &quot;Equipped creature gets +1/+1&quot; and equip {2}.)</text>
 			<set rarity="mythic" picurl="https://mocandragon.github.io/sets/HUN-files/img/149.png" num="56">HUN</set>
 			<prop>
 				<layout>normal</layout>
@@ -3032,6 +3055,7 @@ Flashback {1}{G}. Flashback only as a sorcery. (You may cast this card from your
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<related count="1">Food</related>
 		</card>
 		<card>
 			<name>CW04 — Crafty Hunter</name>
@@ -3182,6 +3206,7 @@ Put two +1/+1 counters on target creature.</text>
 				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related count="1">Food</related>
 		</card>
 		<card>
 			<name>CB09 — Almudron</name>
@@ -3328,6 +3353,7 @@ When this Aura is put into a graveyard from the battlefield, create a tapped Com
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<related count="1">Component</related>
 		</card>
 		<card>
 			<name>CB10 — Hunter&apos;s Folly</name>
@@ -3362,6 +3388,7 @@ Flashback {3}{B}{B} (You may cast this card from your graveyard for its flashbac
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<related count="1">Component</related>
 		</card>
 		<card>
 			<name>CB03 — Mischievous Melynx // Plunderer&apos;s Purrize</name>
@@ -3453,6 +3480,106 @@ Draw two cards, then discard two cards.</text>
 				<pt>4/4</pt>
 			</prop>
 			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Cat Ranger HUN</name>
+			<text></text>
+			<set rarity="common" picurl="https://mocandragon.github.io/sets/HUN-files/img/180.png" num="2">HUN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Cat Ranger</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>White Ranger Token HUN</name>
+			<text></text>
+			<set rarity="common" picurl="https://mocandragon.github.io/sets/HUN-files/img/181.png" num="3">HUN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Human Ranger</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Component HUN</name>
+			<text>{1}, {T}: Exile the top card of your library. Until the end of your next turn, you may play that card.</text>
+			<set rarity="common" picurl="https://mocandragon.github.io/sets/HUN-files/img/182.png" num="6">HUN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Component</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Food HUN</name>
+			<text>{2}, {T}, Sacrifice this artifact: You gain 3 life.</text>
+			<set rarity="common" picurl="https://mocandragon.github.io/sets/HUN-files/img/183.png" num="7">HUN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Insect HUN</name>
+			<text>Flying</text>
+			<set rarity="common" picurl="https://mocandragon.github.io/sets/HUN-files/img/184.png" num="4">HUN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Weapon HUN</name>
+			<text>Equipped creature gets +1/+1.
+Equip {2}</text>
+			<set rarity="common" picurl="https://mocandragon.github.io/sets/HUN-files/img/185.png" num="8">HUN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Weapon Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

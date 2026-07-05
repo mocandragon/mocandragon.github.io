@@ -1,4 +1,80 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+Cat Ranger added.
+White Ranger Token added.
+Component added.
+Food added.
+Insect added.
+Weapon added.
+
+
+The Meowscular Chef
+
+CG02 — Gargwa
+
+CW02 — Bonded Hunter
+
+CG01 — Helpful Grimalkyne
+
+Part Break
+
+Fiorayne, Knight of Elgado
+
+CB01 — Bnahabra
+
+Gendrome
+
+CW15 — Demon Mode
+
+CW03 — Prepared Survivalist
+
+Provisions Manager
+
+Human Ranger
+type: Creature — Human Ranger => Token Creature — Human Ranger
+
+CR12 — Mining Mission
+
+Ahtal-Ka
+
+CU01 — Messenger Mernos
+
+CW05 — Gajalaka Scout
+
+CR04 — Purrloining Pirate
+
+CR05 — Whirlwind Duelist
+
+CU10 — Safeguard the Nest
+
+CW09 — Kulu-Ya-Ku
+
+CR09 — Basarios
+
+CG07 — Bishaten
+
+Wyverian Chief
+
+CW10 — Transporter Halk
+
+CU03 — Gelid Mind
+
+Ambushing Xu Wu
+rules_text: Double strike, haste
+Whenever this creature attacks, if you've invaded this turn, create a colorless Equipment artifact token named Hunting Knife and attach it to this creature. It has “Equipped creature gets +1/+1” and equip {2}. [i](You invade when you cast spells from outside your hand, or nontoken creatures you control that weren't cast enter.)[/i] => Double strike, haste
+Whenever this creature attacks, if you've invaded this turn, create a Weapon token and attach it to this creature. [i](You invade when you cast spells from outside your hand, or nontoken creatures you control that weren't cast enter. A Weapon token is an Equipment artifact with “Equipped creature gets +1/+1” and equip {2}.)[/i]
+
+CG13 — Supply Restock
+
+CG08 — Congalala
+
+CR13 — Demondrug
+
+CB15 — Harvest the Fallen
+
+
+VERSION 4 CHANGELOG
 ====================
 
 

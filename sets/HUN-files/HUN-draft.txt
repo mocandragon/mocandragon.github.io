@@ -592,8 +592,8 @@
 			"name": "Human Ranger",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Creature — Human Ranger",
-			"collector_number": "2",
+			"type": "Token Creature — Human Ranger",
+			"collector_number": "5",
 			"image_uris": {
 				"en": "https://mocandragon.github.io/sets/HUN-files/img/56.png"
 			}
@@ -1847,6 +1847,66 @@
 			"collector_number": "133",
 			"image_uris": {
 				"en": "https://mocandragon.github.io/sets/HUN-files/img/179.png"
+			}
+		},
+		{
+			"name": "Cat Ranger",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Cat Ranger",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/180.png"
+			}
+		},
+		{
+			"name": "White Ranger Token",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Human Ranger",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/181.png"
+			}
+		},
+		{
+			"name": "Component",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Component",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/182.png"
+			}
+		},
+		{
+			"name": "Food",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Food",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/183.png"
+			}
+		},
+		{
+			"name": "Insect",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Insect",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/184.png"
+			}
+		},
+		{
+			"name": "Weapon",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Weapon Equipment",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/185.png"
 			}
 		}
 	]
