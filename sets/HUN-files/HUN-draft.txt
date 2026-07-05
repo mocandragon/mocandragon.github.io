@@ -5,7 +5,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Lizard Beast",
-			"collector_number": "152",
+			"collector_number": "153",
 			"image_uris": {
 				"en": "https://mocandragon.github.io/sets/HUN-files/img/0.png"
 			}
@@ -15,7 +15,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{W}{U}",
 			"type": "Creature — Drake",
-			"collector_number": "163",
+			"collector_number": "164",
 			"back": {
 				"name": "",
 				"type": "",
@@ -32,7 +32,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Creature — Human Ranger",
-			"collector_number": "119",
+			"collector_number": "120",
 			"image_uris": {
 				"en": "https://mocandragon.github.io/sets/HUN-files/img/2.png"
 			}
@@ -92,7 +92,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Legendary Creature — Wyverian Advisor",
-			"collector_number": "168",
+			"collector_number": "169",
 			"image_uris": {
 				"en": "https://mocandragon.github.io/sets/HUN-files/img/8.png"
 			}
@@ -122,7 +122,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}{W}",
 			"type": "Sorcery",
-			"collector_number": "162",
+			"collector_number": "163",
 			"image_uris": {
 				"en": "https://mocandragon.github.io/sets/HUN-files/img/11.png"
 			}
@@ -132,7 +132,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}{B}",
 			"type": "Creature — Insect",
-			"collector_number": "118",
+			"collector_number": "119",
 			"back": {
 				"name": "",
 				"type": "",
@@ -159,7 +159,7 @@
 			"rarity": "common",
 			"mana_cost": "{G/W}",
 			"type": "Creature — Cat Scout",
-			"collector_number": "124",
+			"collector_number": "125",
 			"image_uris": {
 				"en": "https://mocandragon.github.io/sets/HUN-files/img/14.png"
 			}
@@ -179,7 +179,7 @@
 			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Instant",
-			"collector_number": "160",
+			"collector_number": "161",
 			"image_uris": {
 				"en": "https://mocandragon.github.io/sets/HUN-files/img/16.png"
 			}
@@ -209,7 +209,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment — Aura Blight",
-			"collector_number": "159",
+			"collector_number": "160",
 			"image_uris": {
 				"en": "https://mocandragon.github.io/sets/HUN-files/img/19.png"
 			}
@@ -219,7 +219,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{W}{U}",
 			"type": "Creature — Fox Leviathan",
-			"collector_number": "164",
+			"collector_number": "165",
 			"image_uris": {
 				"en": "https://mocandragon.github.io/sets/HUN-files/img/20.png"
 			}
@@ -249,7 +249,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "134",
+			"collector_number": "135",
 			"image_uris": {
 				"en": "https://mocandragon.github.io/sets/HUN-files/img/23.png"
 			}
@@ -259,7 +259,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Bird Drake",
-			"collector_number": "153",
+			"collector_number": "154",
 			"image_uris": {
 				"en": "https://mocandragon.github.io/sets/HUN-files/img/24.png"
 			}
@@ -269,7 +269,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "171",
+			"collector_number": "172",
 			"image_uris": {
 				"en": "https://mocandragon.github.io/sets/HUN-files/img/25.png"
 			}
@@ -279,7 +279,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Bird Drake",
-			"collector_number": "157",
+			"collector_number": "158",
 			"image_uris": {
 				"en": "https://mocandragon.github.io/sets/HUN-files/img/26.png"
 			}
@@ -326,7 +326,7 @@
 			"rarity": "special",
 			"mana_cost": "{4}{W}{B}",
 			"type": "Legendary Artifact Creature — Construct",
-			"collector_number": "169",
+			"collector_number": "170",
 			"image_uris": {
 				"en": "https://mocandragon.github.io/sets/HUN-files/img/30.png"
 			}
@@ -336,7 +336,7 @@
 			"rarity": "special",
 			"mana_cost": "{X}{G}{U}",
 			"type": "Creature — Snake Drake",
-			"collector_number": "165",
+			"collector_number": "166",
 			"image_uris": {
 				"en": "https://mocandragon.github.io/sets/HUN-files/img/31.png"
 			}
@@ -346,7 +346,7 @@
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "151",
+			"collector_number": "152",
 			"image_uris": {
 				"en": "https://mocandragon.github.io/sets/HUN-files/img/32.png"
 			}
@@ -373,10 +373,10 @@
 		},
 		{
 			"name": "Fiorayne, Knight of Elgado",
-			"rarity": "uncommon",
+			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Legendary Creature — Human Knight Ranger",
-			"collector_number": "0",
+			"collector_number": "1",
 			"image_uris": {
 				"en": "https://mocandragon.github.io/sets/HUN-files/img/35.png"
 			}
@@ -396,7 +396,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R/G}",
 			"type": "Sorcery",
-			"collector_number": "125",
+			"collector_number": "126",
 			"image_uris": {
 				"en": "https://mocandragon.github.io/sets/HUN-files/img/37.png"
 			}
@@ -486,7 +486,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R/W}",
 			"type": "Enchantment — Aura",
-			"collector_number": "131",
+			"collector_number": "132",
 			"image_uris": {
 				"en": "https://mocandragon.github.io/sets/HUN-files/img/46.png"
 			}
@@ -653,7 +653,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W/U}",
 			"type": "Instant",
-			"collector_number": "170",
+			"collector_number": "171",
 			"image_uris": {
 				"en": "https://mocandragon.github.io/sets/HUN-files/img/62.png"
 			}
@@ -763,7 +763,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment — Aura",
-			"collector_number": "149",
+			"collector_number": "150",
 			"image_uris": {
 				"en": "https://mocandragon.github.io/sets/HUN-files/img/73.png"
 			}
@@ -773,7 +773,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W/B}",
 			"type": "Creature — Goblin Scout",
-			"collector_number": "130",
+			"collector_number": "131",
 			"image_uris": {
 				"en": "https://mocandragon.github.io/sets/HUN-files/img/74.png"
 			}
@@ -813,7 +813,7 @@
 			"rarity": "special",
 			"mana_cost": "{R}{W}{B}",
 			"type": "Legendary Creature — Elder Dragon",
-			"collector_number": "166",
+			"collector_number": "167",
 			"image_uris": {
 				"en": "https://mocandragon.github.io/sets/HUN-files/img/78.png"
 			}
@@ -823,7 +823,7 @@
 			"rarity": "common",
 			"mana_cost": "{U/B}{U/B}",
 			"type": "Sorcery",
-			"collector_number": "123",
+			"collector_number": "124",
 			"image_uris": {
 				"en": "https://mocandragon.github.io/sets/HUN-files/img/79.png"
 			}
@@ -833,7 +833,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U/R}",
 			"type": "Creature — Walrus Leviathan",
-			"collector_number": "127",
+			"collector_number": "128",
 			"image_uris": {
 				"en": "https://mocandragon.github.io/sets/HUN-files/img/80.png"
 			}
@@ -843,7 +843,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G/U}",
 			"type": "Creature — Cat Ranger",
-			"collector_number": "128",
+			"collector_number": "129",
 			"image_uris": {
 				"en": "https://mocandragon.github.io/sets/HUN-files/img/81.png"
 			}
@@ -853,7 +853,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B/R}",
 			"type": "Creature — Cat Pirate",
-			"collector_number": "126",
+			"collector_number": "127",
 			"image_uris": {
 				"en": "https://mocandragon.github.io/sets/HUN-files/img/82.png"
 			}
@@ -863,7 +863,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B/G}",
 			"type": "Instant",
-			"collector_number": "122",
+			"collector_number": "123",
 			"image_uris": {
 				"en": "https://mocandragon.github.io/sets/HUN-files/img/83.png"
 			}
@@ -873,7 +873,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Lemur Beast",
-			"collector_number": "147",
+			"collector_number": "148",
 			"image_uris": {
 				"en": "https://mocandragon.github.io/sets/HUN-files/img/84.png"
 			}
@@ -943,7 +943,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Spider",
-			"collector_number": "156",
+			"collector_number": "157",
 			"image_uris": {
 				"en": "https://mocandragon.github.io/sets/HUN-files/img/91.png"
 			}
@@ -983,7 +983,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Badger Bear",
-			"collector_number": "148",
+			"collector_number": "149",
 			"image_uris": {
 				"en": "https://mocandragon.github.io/sets/HUN-files/img/95.png"
 			}
@@ -1020,7 +1020,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Dinosaur",
-			"collector_number": "158",
+			"collector_number": "159",
 			"image_uris": {
 				"en": "https://mocandragon.github.io/sets/HUN-files/img/98.png"
 			}
@@ -1060,7 +1060,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Town",
-			"collector_number": "139",
+			"collector_number": "140",
 			"image_uris": {
 				"en": "https://mocandragon.github.io/sets/HUN-files/img/102.png"
 			}
@@ -1070,7 +1070,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Town",
-			"collector_number": "146",
+			"collector_number": "147",
 			"image_uris": {
 				"en": "https://mocandragon.github.io/sets/HUN-files/img/103.png"
 			}
@@ -1080,7 +1080,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Town",
-			"collector_number": "141",
+			"collector_number": "142",
 			"image_uris": {
 				"en": "https://mocandragon.github.io/sets/HUN-files/img/104.png"
 			}
@@ -1090,7 +1090,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Town",
-			"collector_number": "142",
+			"collector_number": "143",
 			"image_uris": {
 				"en": "https://mocandragon.github.io/sets/HUN-files/img/105.png"
 			}
@@ -1100,7 +1100,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Town",
-			"collector_number": "144",
+			"collector_number": "145",
 			"image_uris": {
 				"en": "https://mocandragon.github.io/sets/HUN-files/img/106.png"
 			}
@@ -1110,7 +1110,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Town",
-			"collector_number": "138",
+			"collector_number": "139",
 			"image_uris": {
 				"en": "https://mocandragon.github.io/sets/HUN-files/img/107.png"
 			}
@@ -1120,7 +1120,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Town",
-			"collector_number": "143",
+			"collector_number": "144",
 			"image_uris": {
 				"en": "https://mocandragon.github.io/sets/HUN-files/img/108.png"
 			}
@@ -1130,7 +1130,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Town",
-			"collector_number": "140",
+			"collector_number": "141",
 			"image_uris": {
 				"en": "https://mocandragon.github.io/sets/HUN-files/img/109.png"
 			}
@@ -1140,7 +1140,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Town",
-			"collector_number": "145",
+			"collector_number": "146",
 			"image_uris": {
 				"en": "https://mocandragon.github.io/sets/HUN-files/img/110.png"
 			}
@@ -1150,7 +1150,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Drake Germ",
-			"collector_number": "155",
+			"collector_number": "156",
 			"image_uris": {
 				"en": "https://mocandragon.github.io/sets/HUN-files/img/111.png"
 			}
@@ -1190,7 +1190,7 @@
 			"rarity": "special",
 			"mana_cost": "{B}{B}",
 			"type": "Legendary Creature — Elder Dragon",
-			"collector_number": "3",
+			"collector_number": "4",
 			"image_uris": {
 				"en": "https://mocandragon.github.io/sets/HUN-files/img/115.png"
 			}
@@ -1200,7 +1200,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Badger Bear",
-			"collector_number": "1",
+			"collector_number": "2",
 			"image_uris": {
 				"en": "https://mocandragon.github.io/sets/HUN-files/img/116.png"
 			}
@@ -1210,7 +1210,7 @@
 			"rarity": "special",
 			"mana_cost": "{4}{R}",
 			"type": "Creature — Spider",
-			"collector_number": "4",
+			"collector_number": "5",
 			"image_uris": {
 				"en": "https://mocandragon.github.io/sets/HUN-files/img/117.png"
 			}
@@ -1220,7 +1220,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Bird Ranger",
-			"collector_number": "5",
+			"collector_number": "6",
 			"image_uris": {
 				"en": "https://mocandragon.github.io/sets/HUN-files/img/118.png"
 			}
@@ -1230,7 +1230,7 @@
 			"rarity": "special",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Creature — Leviathan",
-			"collector_number": "2",
+			"collector_number": "3",
 			"image_uris": {
 				"en": "https://mocandragon.github.io/sets/HUN-files/img/119.png"
 			}
@@ -1260,7 +1260,7 @@
 			"rarity": "special",
 			"mana_cost": "{R}{R}{G}{G}",
 			"type": "Legendary Creature — Elder Dragon Serpent",
-			"collector_number": "167",
+			"collector_number": "168",
 			"image_uris": {
 				"en": "https://mocandragon.github.io/sets/HUN-files/img/122.png"
 			}
@@ -1280,7 +1280,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Wyverian Scout",
-			"collector_number": "161",
+			"collector_number": "162",
 			"image_uris": {
 				"en": "https://mocandragon.github.io/sets/HUN-files/img/124.png"
 			}
@@ -1300,7 +1300,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact — Food",
-			"collector_number": "132",
+			"collector_number": "133",
 			"image_uris": {
 				"en": "https://mocandragon.github.io/sets/HUN-files/img/126.png"
 			}
@@ -1380,7 +1380,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Creature — Wyverian Advisor",
-			"collector_number": "121",
+			"collector_number": "122",
 			"image_uris": {
 				"en": "https://mocandragon.github.io/sets/HUN-files/img/134.png"
 			}
@@ -1437,7 +1437,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Ranger",
-			"collector_number": "154",
+			"collector_number": "155",
 			"image_uris": {
 				"en": "https://mocandragon.github.io/sets/HUN-files/img/139.png"
 			}
@@ -1517,7 +1517,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W/U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "129",
+			"collector_number": "130",
 			"image_uris": {
 				"en": "https://mocandragon.github.io/sets/HUN-files/img/147.png"
 			}
@@ -1527,7 +1527,7 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{W}",
 			"type": "Enchantment",
-			"collector_number": "120",
+			"collector_number": "121",
 			"image_uris": {
 				"en": "https://mocandragon.github.io/sets/HUN-files/img/148.png"
 			}
@@ -1594,7 +1594,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}{B}{B}",
 			"type": "Legendary Creature — Elder Squid",
-			"collector_number": "6",
+			"collector_number": "7",
 			"image_uris": {
 				"en": "https://mocandragon.github.io/sets/HUN-files/img/154.png"
 			}
@@ -1634,7 +1634,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "150",
+			"collector_number": "151",
 			"image_uris": {
 				"en": "https://mocandragon.github.io/sets/HUN-files/img/158.png"
 			}
@@ -1724,7 +1724,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Town",
-			"collector_number": "137",
+			"collector_number": "138",
 			"image_uris": {
 				"en": "https://mocandragon.github.io/sets/HUN-files/img/167.png"
 			}
@@ -1814,7 +1814,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "135",
+			"collector_number": "136",
 			"image_uris": {
 				"en": "https://mocandragon.github.io/sets/HUN-files/img/176.png"
 			}
@@ -1834,7 +1834,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact — Equipment",
-			"collector_number": "136",
+			"collector_number": "137",
 			"image_uris": {
 				"en": "https://mocandragon.github.io/sets/HUN-files/img/178.png"
 			}
@@ -1844,7 +1844,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "133",
+			"collector_number": "134",
 			"image_uris": {
 				"en": "https://mocandragon.github.io/sets/HUN-files/img/179.png"
 			}
@@ -1908,7 +1908,24 @@
 			"image_uris": {
 				"en": "https://mocandragon.github.io/sets/HUN-files/img/185.png"
 			}
-		}
+		},
+		{
+			"name": "Ruthless Yian-Garuga",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Bird Drake",
+			"collector_number": "118",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mocandragon.github.io/sets/HUN-files/img/186_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://mocandragon.github.io/sets/HUN-files/img/186_front.png"
+			}
+		},
 	]
 
 [rare(1)]
@@ -1955,7 +1972,6 @@
 	4 Odogaron
 	4 Valorous Stance
 	4 Fiorayne, Knight of Elgado
-	4 Fiorayne, Knight of Elgado
 	4 Gendrome
 	4 Plesioth
 	4 Barioth
@@ -1970,6 +1986,7 @@
 	4 Wyverian Chief
 	4 Fulgur Stalker
 	4 Great Maccao
+	4 Ruthless Yian-Garuga
 [common(6)]
 	8 CG02 — Gargwa
 	8 CW02 — Bonded Hunter
@@ -2069,6 +2086,7 @@
 	8 CB04 — Pukei-Pukei
 	8 CA04 — Dung Bomb
 	8 CW01 — Inspiring Palico
+	3 Fiorayne, Knight of Elgado
 	8 CG12 — Crushing Impact
 	8 CW14 — Impenetrable Winds
 	8 CG03 — Migratory Seikret
@@ -2180,7 +2198,6 @@
 	6 Odogaron
 	6 Valorous Stance
 	2 Gemma of Avis Unit
-	6 Fiorayne, Knight of Elgado
 	6 Fiorayne, Knight of Elgado
 	2 Nargacuga, Pouncing Shadow
 	12 CG12 — Crushing Impact
@@ -2306,6 +2323,7 @@
 	12 CA02 — Marionette Spider
 	12 CA06 — Diablos-Horn Spear
 	12 CA03 — Guild Airship
+	6 Ruthless Yian-Garuga
 [wildcard(1)]
 	15 Swiftstrike Hunter
 	15 Resourceful Hunter
@@ -2328,7 +2346,6 @@
 	15 Odogaron
 	15 Valorous Stance
 	7 Gemma of Avis Unit
-	15 Fiorayne, Knight of Elgado
 	15 Fiorayne, Knight of Elgado
 	7 Nargacuga, Pouncing Shadow
 	6 CG12 — Crushing Impact
@@ -2454,3 +2471,4 @@
 	6 CA02 — Marionette Spider
 	6 CA06 — Diablos-Horn Spear
 	6 CA03 — Guild Airship
+	15 Ruthless Yian-Garuga

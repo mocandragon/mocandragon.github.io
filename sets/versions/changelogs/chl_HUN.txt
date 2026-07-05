@@ -1,4 +1,63 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+Ruthless Yian-Garuga added.
+
+
+Lagombi
+rules_text: Flash
+Prevent all damage that would be dealt to this creature as long as it entered this turn. => Flash [i](You may cast this spell any time you could cast an instant.)[/i]
+Prevent all damage that would be dealt to this creature as long as it entered this turn.
+
+Fiorayne, Knight of Elgado
+
+CU06 — Specimen Catcher
+rules_text: When this creature enters, choose one—
+• Surveil 2, then draw a card.
+• Put a +1/+1 counter and a reach counter on this creature. => When this creature enters, choose one—
+• Surveil 2, then draw a card. [i](To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+• Put a +1/+1 counter and a reach counter on this creature.
+
+CW13 — Nerscylla
+rules_text: Quarry {2}{W} — 5/ [i](You may cast this as a battle an opponent protects. Remove a defense counter at the beginning of your upkeep. It becomes a creature once defeated.)[/i]
+Reach
+When this permanent enters, exile up to one target nonland permanent you don't control until this permanent leaves the battlefield. => [b]Quarry[/b] {2}{W} — 5/ [i](You may cast this as a battle an opponent protects. Remove a defense counter at the beginning of your upkeep. It becomes a creature once defeated.)[/i]
+Reach
+When this permanent enters, exile up to one target nonland permanent you don't control until this permanent leaves the battlefield.
+special_text: Quarry {2}{W} — 5/ [i](You may cast this as a battle an opponent protects. Remove a defense counter at the beginning of your upkeep. It becomes a creature once defeated.)[/i]
+Reach
+When this permanent enters, exile up to one target nonland permanent you don't control until this permanent leaves the battlefield. => [b]Quarry[/b] {2}{W} — 5/ [i](You may cast this as a battle an opponent protects. Remove a defense counter at the beginning of your upkeep. It becomes a creature once defeated.)[/i]
+Reach
+When this permanent enters, exile up to one target nonland permanent you don't control until this permanent leaves the battlefield.
+
+CW10 — Transporter Halk
+rules_text: Flying
+When this creature enters, create a 2/2 white Human Ranger creature token. => Flying[b]
+[/b]When this creature enters, create a 2/2 white Human Ranger creature token.
+
+CU03 — Gelid Mind
+rules_text: When this Equipment enters, create a 1/1 red Human Ranger creature token and attach this Equipment to it.
+Equipped creature gets +2/+1.
+Whenever equipped creature deals combat damage to a creature, tap that creature and put a stun counter on it.
+Equip {3} [i]({3}: Attach to target creature you control. Equip only as a sorcery.)[/i] => When this Equipment enters, create a 1/1 red Human Ranger creature token and attach this Equipment to it.
+Equipped creature gets +2/+1.
+Whenever equipped creature deals combat damage to a creature, tap that creature and put a stun counter on it.
+[b]Equip[/b] {3} [i]({3}: Attach to target creature you control. Equip only as a sorcery.)[/i]
+
+CU04 — Great Jagras
+rules_text: Vigilance
+This creature enters with a shield counter on it. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i] => [b]Vigilance[/b]
+This creature enters with a shield counter on it. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+
+CA02 — Marionette Spider
+rules_text: Flash
+Reach
+When this creature enters, tap up to one target creature. => Flash[b]
+[/b]Reach
+When this creature enters, tap up to one target creature.
+
+
+VERSION 5 CHANGELOG
 ====================
 
 Cat Ranger added.

@@ -12,7 +12,7 @@
 		<card>
 			<name>CU03 — Great Girros</name>
 			<text>Exhaust — {2}{U}: Put a +1/+1 counter on this creature. Tap up to one target creature and put a stun counter on it.</text>
-			<set rarity="special" picurl="https://mocandragon.github.io/sets/HUN-files/img/0.png" num="152">HUN</set>
+			<set rarity="special" picurl="https://mocandragon.github.io/sets/HUN-files/img/0.png" num="153">HUN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -33,7 +33,7 @@ Whenever this creature deals combat damage to a player, tap target creature they
 Salvage {1}{W}{U} (You may cast this card from your graveyard transformed for its Salvage cost by sacrificing an artifact or exiling another card with salvage from your graveyard.)
 ---
 (Back): Snowfletcher</text>
-			<set rarity="special" picurl="https://mocandragon.github.io/sets/HUN-files/img/1_front.png" num="163a">HUN</set>
+			<set rarity="special" picurl="https://mocandragon.github.io/sets/HUN-files/img/1_front.png" num="164a">HUN</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -56,7 +56,7 @@ Whenever equipped creature attacks, tap target creature defending player control
 Equip {2}
 ---
 (Front): Legiana</text>
-			<set rarity="special" picurl="https://mocandragon.github.io/sets/HUN-files/img/1_back.png" num="163b">HUN</set>
+			<set rarity="special" picurl="https://mocandragon.github.io/sets/HUN-files/img/1_back.png" num="164b">HUN</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -74,7 +74,7 @@ Equip {2}
 			<name>Swiftstrike Hunter</name>
 			<text>Trample, haste
 Whenever you attack, choose target attacking creature. Attach up to one target Equipment you control to it, then it gets +X/+0 until end of turn, where X is the number of equipped creatures you control.</text>
-			<set rarity="uncommon" picurl="https://mocandragon.github.io/sets/HUN-files/img/2.png" num="119">HUN</set>
+			<set rarity="uncommon" picurl="https://mocandragon.github.io/sets/HUN-files/img/2.png" num="120">HUN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -143,7 +143,7 @@ Whenever you sacrifice an artifact, put a +1/+1 counter on target Ranger you con
 		</card>
 		<card>
 			<name>Lagombi</name>
-			<text>Flash
+			<text>Flash (You may cast this spell any time you could cast an instant.)
 Prevent all damage that would be dealt to this creature as long as it entered this turn.</text>
 			<set rarity="uncommon" picurl="https://mocandragon.github.io/sets/HUN-files/img/6.png" num="19">HUN</set>
 			<prop>
@@ -186,7 +186,7 @@ Create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this 
 			<name>Third Fleet Master</name>
 			<text>Modified creatures you control get +1/+1 and have ward {X}, where X is the number of modifications they have. (Equipment, Auras you control, and counters are modifications.)
 Noncreature, non-Equipment artifacts you control are Equipment in addition to their other types and have equip {1}.</text>
-			<set rarity="special" picurl="https://mocandragon.github.io/sets/HUN-files/img/8.png" num="168">HUN</set>
+			<set rarity="special" picurl="https://mocandragon.github.io/sets/HUN-files/img/8.png" num="169">HUN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -239,7 +239,7 @@ Whenever a creature you control attacks alone, it gains first strike until end o
 		<card>
 			<name>Hunter&apos;s Companions</name>
 			<text>Create a 1/1 white Cat Ranger creature token, and a 2/2 green Dog Ranger creature token. Put an exalted counter on each of them. (Whenever a creature you control attacks alone, it gets +1/+1 until end of turn for each instance of exalted among your permanents.)</text>
-			<set rarity="special" picurl="https://mocandragon.github.io/sets/HUN-files/img/11.png" num="162">HUN</set>
+			<set rarity="special" picurl="https://mocandragon.github.io/sets/HUN-files/img/11.png" num="163">HUN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -259,7 +259,7 @@ Whenever a creature you control attacks alone, it gains first strike until end o
 Salvage {1}{W}{B} (You may cast this card from your graveyard transformed for its Salvage cost by sacrificing an artifact or exiling another card with salvage from your graveyard.)
 ---
 (Back): Seltas Cannon</text>
-			<set rarity="uncommon" picurl="https://mocandragon.github.io/sets/HUN-files/img/12_front.png" num="118a">HUN</set>
+			<set rarity="uncommon" picurl="https://mocandragon.github.io/sets/HUN-files/img/12_front.png" num="119a">HUN</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -282,7 +282,7 @@ Equipped creature gets +2/+0.
 Equip {2}
 ---
 (Front): Seltas Queen</text>
-			<set rarity="uncommon" picurl="https://mocandragon.github.io/sets/HUN-files/img/12_back.png" num="118b">HUN</set>
+			<set rarity="uncommon" picurl="https://mocandragon.github.io/sets/HUN-files/img/12_back.png" num="119b">HUN</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -320,7 +320,7 @@ Equip {2}
 			<name>CG01 — Helpful Grimalkyne</name>
 			<text>Whenever a creature you control attacks alone, it gets +1/+1 until end of turn.
 When this creature dies, create a 1/1 white Cat Ranger creature token.</text>
-			<set rarity="common" picurl="https://mocandragon.github.io/sets/HUN-files/img/14.png" num="124">HUN</set>
+			<set rarity="common" picurl="https://mocandragon.github.io/sets/HUN-files/img/14.png" num="125">HUN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -357,7 +357,7 @@ Enchanted creature gets -2/-2.</text>
 		<card>
 			<name>CG13 — Vigorwasp Spray</name>
 			<text>Put a +1/+1 counter on target creature. Prevent all combat damage that would be dealt to it this turn.</text>
-			<set rarity="special" picurl="https://mocandragon.github.io/sets/HUN-files/img/16.png" num="160">HUN</set>
+			<set rarity="special" picurl="https://mocandragon.github.io/sets/HUN-files/img/16.png" num="161">HUN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -411,7 +411,7 @@ Whenever you invade, this creature deals 1 damage to each opponent. (You invade 
 			<text>Enchant creature
 Enchanted creature gets +4/+2 and has &quot;Whenever this creature deals combat damage to a player, remove all -1/-1 counters from it.&quot;
 At the beginning of your upkeep, put a -1/-1 counter on enchanted creature.</text>
-			<set rarity="special" picurl="https://mocandragon.github.io/sets/HUN-files/img/19.png" num="159">HUN</set>
+			<set rarity="special" picurl="https://mocandragon.github.io/sets/HUN-files/img/19.png" num="160">HUN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -429,7 +429,7 @@ At the beginning of your upkeep, put a -1/-1 counter on enchanted creature.</tex
 			<text>Vigilance
 Blights you control have indestructible.
 Whenever this creature deals combat damage to a player,</text>
-			<set rarity="special" picurl="https://mocandragon.github.io/sets/HUN-files/img/20.png" num="164">HUN</set>
+			<set rarity="special" picurl="https://mocandragon.github.io/sets/HUN-files/img/20.png" num="165">HUN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -483,7 +483,7 @@ Each creature card in your graveyard has scavenge. The scavenge cost is equal to
 			<text>Flash
 When this artifact is put into a graveyard from the battlefield, draw a card.
 {3}, {T}, Sacrifice this artifact: Tap target creature. If it&apos;s attacking, remove it from combat. Put a stun counter on it.</text>
-			<set rarity="common" picurl="https://mocandragon.github.io/sets/HUN-files/img/23.png" num="134">HUN</set>
+			<set rarity="common" picurl="https://mocandragon.github.io/sets/HUN-files/img/23.png" num="135">HUN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -498,7 +498,7 @@ When this artifact is put into a graveyard from the battlefield, draw a card.
 			<name>CU04 — Gypceros</name>
 			<text>Flying
 Whenever this creature attacks, tap target creature defending player controls.</text>
-			<set rarity="special" picurl="https://mocandragon.github.io/sets/HUN-files/img/24.png" num="153">HUN</set>
+			<set rarity="special" picurl="https://mocandragon.github.io/sets/HUN-files/img/24.png" num="154">HUN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -516,7 +516,7 @@ Whenever this creature attacks, tap target creature defending player controls.</
 			<name>CA06 — Bubble Fox Soap</name>
 			<text>When this artifact enters, you may draw a card. If you do, discard a card.
 {3}, {T}, Sacrifice this artifact: Remove all counters from target creature. Unattach all Equipment from it. Activate only as a sorcery.</text>
-			<set rarity="special" picurl="https://mocandragon.github.io/sets/HUN-files/img/25.png" num="171">HUN</set>
+			<set rarity="special" picurl="https://mocandragon.github.io/sets/HUN-files/img/25.png" num="172">HUN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -531,7 +531,7 @@ Whenever this creature attacks, tap target creature defending player controls.</
 			<name>CR04 — Aknosom</name>
 			<text>During your turn, this creature has flying.
 When this creature enters, create a Blast Blight token attached to up to one target creature. (If enchanted creature would be dealt damage, it&apos;s dealt twice that much damage instead. Then, destroy this Blight.)</text>
-			<set rarity="special" picurl="https://mocandragon.github.io/sets/HUN-files/img/26.png" num="157">HUN</set>
+			<set rarity="special" picurl="https://mocandragon.github.io/sets/HUN-files/img/26.png" num="158">HUN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -629,7 +629,7 @@ Equip {3}
 			<text>Trample, lifelink
 Whenever Zoh Shia deals combat damage to a player, put that many cocoon counters on it.
 {W}{B}, Pay X life, Remove X cocoon counters from Zoh Shia: Return target creature card with mana value X from your graveyard to the battlefield tapped with a finality counter on it. It&apos;s an artifact in addition to its other types.</text>
-			<set rarity="special" picurl="https://mocandragon.github.io/sets/HUN-files/img/30.png" num="169">HUN</set>
+			<set rarity="special" picurl="https://mocandragon.github.io/sets/HUN-files/img/30.png" num="170">HUN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -648,7 +648,7 @@ Whenever Zoh Shia deals combat damage to a player, put that many cocoon counters
 			<text>Vigilance
 This creature enters with a number of +1/+1 counters on it equal to the amount of mana spent to cast it.
 Whenever this creature attacks, you may remove a counter from it. If you do, it can&apos;t be blocked this turn.</text>
-			<set rarity="special" picurl="https://mocandragon.github.io/sets/HUN-files/img/31.png" num="165">HUN</set>
+			<set rarity="special" picurl="https://mocandragon.github.io/sets/HUN-files/img/31.png" num="166">HUN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -665,7 +665,7 @@ Whenever this creature attacks, you may remove a counter from it. If you do, it 
 		<card>
 			<name>Breakneck Escape</name>
 			<text>Return target permanent you own and all Auras you own attached to it to your hand. If it was a modified creature, draw a card. (Equipment, Auras you control, and counters are modifications.)</text>
-			<set rarity="special" picurl="https://mocandragon.github.io/sets/HUN-files/img/32.png" num="151">HUN</set>
+			<set rarity="special" picurl="https://mocandragon.github.io/sets/HUN-files/img/32.png" num="152">HUN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -718,7 +718,7 @@ Whenever Fiorayne attacks, create a 1/1 red Human Ranger creature token that&apo
 			<name>Fiorayne, Knight of Elgado</name>
 			<text>Vigilance
 Whenever Fiorayne attacks, create a 1/1 red Human Ranger creature token that&apos;s tapped and attacking if she&apos;s equipped. Do the same for if she&apos;s enchanted and for if she has a counter on her.</text>
-			<set rarity="uncommon" picurl="https://mocandragon.github.io/sets/HUN-files/img/35.png" num="0">HUN</set>
+			<set rarity="masterpiece" picurl="https://mocandragon.github.io/sets/HUN-files/img/35.png" num="1">HUN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -756,7 +756,7 @@ When Nargacuga enters, until your next turn, spells you cast from your graveyard
 			<text>Choose one —
 • Target creature you control deals damage equal to its power to target creature you don&apos;t control.
 • Destroy target artifact.</text>
-			<set rarity="common" picurl="https://mocandragon.github.io/sets/HUN-files/img/37.png" num="125">HUN</set>
+			<set rarity="common" picurl="https://mocandragon.github.io/sets/HUN-files/img/37.png" num="126">HUN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -932,7 +932,7 @@ Lightning Javelin deals 3 damage to any target. Scry 1.</text>
 			<name>CW15 — Demon Mode</name>
 			<text>Enchant creature
 Whenever enchanted creature attacks, it gets +1/+0 and gains first strike until end of turn. If it&apos;s equipped, it also gains double strike until end of turn.</text>
-			<set rarity="common" picurl="https://mocandragon.github.io/sets/HUN-files/img/46.png" num="131">HUN</set>
+			<set rarity="common" picurl="https://mocandragon.github.io/sets/HUN-files/img/46.png" num="132">HUN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1247,7 +1247,7 @@ At the beginning of combat on your turn, put a number of +1/+1 counters equal to
 			<name>CU09 — Deafening Roar</name>
 			<text>Counter target spell that targets you or a permanent you control.
 Draw a card.</text>
-			<set rarity="special" picurl="https://mocandragon.github.io/sets/HUN-files/img/62.png" num="170">HUN</set>
+			<set rarity="special" picurl="https://mocandragon.github.io/sets/HUN-files/img/62.png" num="171">HUN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1281,7 +1281,7 @@ Whenever you invade, create a 2/1 red Spider creature token with reach. (You inv
 		<card>
 			<name>CU06 — Specimen Catcher</name>
 			<text>When this creature enters, choose one—
-• Surveil 2, then draw a card.
+• Surveil 2, then draw a card. (To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
 • Put a +1/+1 counter and a reach counter on this creature.</text>
 			<set rarity="common" picurl="https://mocandragon.github.io/sets/HUN-files/img/64.png" num="27">HUN</set>
 			<prop>
@@ -1443,7 +1443,7 @@ Destroy target creature. Its controller loses 2 life.</text>
 			<text>Enchant creature
 Enchanted creature can&apos;t attack or block.
 {3}{W}, Sacrifice this Aura: Exile enchanted creature. Create a 1/1 white Cat Ranger creature token. Activate only as a sorcery.</text>
-			<set rarity="special" picurl="https://mocandragon.github.io/sets/HUN-files/img/73.png" num="149">HUN</set>
+			<set rarity="special" picurl="https://mocandragon.github.io/sets/HUN-files/img/73.png" num="150">HUN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1459,7 +1459,7 @@ Enchanted creature can&apos;t attack or block.
 		<card>
 			<name>CW05 — Gajalaka Scout</name>
 			<text>When this creature enters or dies, create a 1/1 white Cat Ranger creature token.</text>
-			<set rarity="common" picurl="https://mocandragon.github.io/sets/HUN-files/img/74.png" num="130">HUN</set>
+			<set rarity="common" picurl="https://mocandragon.github.io/sets/HUN-files/img/74.png" num="131">HUN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1531,7 +1531,7 @@ At the beginning of each end step, put two +1/+1 counters on each creature you c
 			<text>As an additional cost to cast this spell, capitalize {8}. (Each counter you remove from your creatures pays for {1}, and each token you sacrifice pays for {2}.)
 Flying, haste
 Whenever Shagaru Magala attacks, until your next turn, each of up to X target creatures attack each combat if able and gain &quot;Whenever this creature deals combat damage, you lose that much life,&quot; where X is the number of permanents you&apos;ve sacrificed this turn.</text>
-			<set rarity="special" picurl="https://mocandragon.github.io/sets/HUN-files/img/78.png" num="166">HUN</set>
+			<set rarity="special" picurl="https://mocandragon.github.io/sets/HUN-files/img/78.png" num="167">HUN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1549,7 +1549,7 @@ Whenever Shagaru Magala attacks, until your next turn, each of up to X target cr
 			<name>CB12 — Ominous Portent</name>
 			<text>As an additional cost to cast this spell, capitalize {2}. (For capitalize costs, removing counters from your creatures and sacrificing artifacts and/or tokens helps pay. Each counter pays for {1}, and each permanent sacrificed pays for {2}.)
 Surveil 2, then draw two cards.</text>
-			<set rarity="common" picurl="https://mocandragon.github.io/sets/HUN-files/img/79.png" num="123">HUN</set>
+			<set rarity="common" picurl="https://mocandragon.github.io/sets/HUN-files/img/79.png" num="124">HUN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1570,7 +1570,7 @@ This creature enters prepared. (While it&apos;s prepared, you may cast a copy of
 ---
 
 You may discard a card. If you do, draw two cards.</text>
-			<set rarity="common" picurl="https://mocandragon.github.io/sets/HUN-files/img/80.png" num="127">HUN</set>
+			<set rarity="common" picurl="https://mocandragon.github.io/sets/HUN-files/img/80.png" num="128">HUN</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -1587,7 +1587,7 @@ You may discard a card. If you do, draw two cards.</text>
 		<card>
 			<name>CU05 — Felyne Treasure Hunter</name>
 			<text>Whenever this creature deals combat damage to a player, draw a card.</text>
-			<set rarity="common" picurl="https://mocandragon.github.io/sets/HUN-files/img/81.png" num="128">HUN</set>
+			<set rarity="common" picurl="https://mocandragon.github.io/sets/HUN-files/img/81.png" num="129">HUN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1604,7 +1604,7 @@ You may discard a card. If you do, draw two cards.</text>
 		<card>
 			<name>CR04 — Purrloining Pirate</name>
 			<text>Whenever this creature attacks, you may sacrifice an artifact or creature. If you do, create a Component token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this token: Exile the top card of your library. Until the end of your next turn, you may play that card.&quot;)</text>
-			<set rarity="common" picurl="https://mocandragon.github.io/sets/HUN-files/img/82.png" num="126">HUN</set>
+			<set rarity="common" picurl="https://mocandragon.github.io/sets/HUN-files/img/82.png" num="127">HUN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1622,7 +1622,7 @@ You may discard a card. If you do, draw two cards.</text>
 		<card>
 			<name>CB11 — Vicious Rebirth</name>
 			<text>Target creature gains deathtouch until end of turn. When it dies this turn, return it to the battlefield tapped under its owner&apos;s control.</text>
-			<set rarity="common" picurl="https://mocandragon.github.io/sets/HUN-files/img/83.png" num="122">HUN</set>
+			<set rarity="common" picurl="https://mocandragon.github.io/sets/HUN-files/img/83.png" num="123">HUN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1638,7 +1638,7 @@ You may discard a card. If you do, draw two cards.</text>
 		<card>
 			<name>CW04 — Kecha Wacha</name>
 			<text>When this creature enters, create a Water Blight token attached to up to one target creature. (Enchanted creature can&apos;t attack, loses all abilities, and has &quot;{3}, {T}: Destroy Water Blight. Activate only as a sorcery.&quot;)</text>
-			<set rarity="special" picurl="https://mocandragon.github.io/sets/HUN-files/img/84.png" num="147">HUN</set>
+			<set rarity="special" picurl="https://mocandragon.github.io/sets/HUN-files/img/84.png" num="148">HUN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1747,7 +1747,7 @@ When this permanent enters, up to one target creature&apos;s owner puts it on th
 		</card>
 		<card>
 			<name>CW13 — Nerscylla</name>
-			<text>Quarry {2}{W} — 5/ (You may cast this as a battle an opponent protects. Remove a defense counter at the beginning of your upkeep. It becomes a creature once defeated.)
+			<text>[b]Quarry[/b] {2}{W} — 5/ (You may cast this as a battle an opponent protects. Remove a defense counter at the beginning of your upkeep. It becomes a creature once defeated.)
 Reach
 When this permanent enters, exile up to one target nonland permanent you don&apos;t control until this permanent leaves the battlefield.</text>
 			<set rarity="common" picurl="https://mocandragon.github.io/sets/HUN-files/img/90.png" num="15">HUN</set>
@@ -1768,7 +1768,7 @@ When this permanent enters, exile up to one target nonland permanent you don&apo
 			<name>CR03 — Pyrantula</name>
 			<text>Reach
 Exhaust — {1}{R}, {T}: Create a Blast Blight token attached to target creature. Put a +1/+1 counter on this creature. Activate only as a sorcery. (If enchanted creature would be dealt damage, it&apos;s dealt twice that much damage instead. Then, destroy this Blight. Activate only once.) (Activate each exhaust ability only once.)</text>
-			<set rarity="special" picurl="https://mocandragon.github.io/sets/HUN-files/img/91.png" num="156">HUN</set>
+			<set rarity="special" picurl="https://mocandragon.github.io/sets/HUN-files/img/91.png" num="157">HUN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1841,7 +1841,7 @@ Whenever you invade, this creature gets +1/+0 and gains menace until end of turn
 		<card>
 			<name>CW05 — Placid Arzuros</name>
 			<text>Whenever a creature you control attacks alone, you gain 2 life.</text>
-			<set rarity="special" picurl="https://mocandragon.github.io/sets/HUN-files/img/95.png" num="148">HUN</set>
+			<set rarity="special" picurl="https://mocandragon.github.io/sets/HUN-files/img/95.png" num="149">HUN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1919,7 +1919,7 @@ Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
 			<name>CR07 — Great Wroggi</name>
 			<text>Haste
 When this creature enters, create a Wounding Blight token attached to target opponent. (At the beginning of enchanted player&apos;s first main phase, this Blight deals 1 damage to them. Then, they may pay {2}. If they do, destroy this blight.)</text>
-			<set rarity="special" picurl="https://mocandragon.github.io/sets/HUN-files/img/98.png" num="158">HUN</set>
+			<set rarity="special" picurl="https://mocandragon.github.io/sets/HUN-files/img/98.png" num="159">HUN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2002,7 +2002,7 @@ When this creature enters, choose one—
 ---
 
 Draw a card.</text>
-			<set rarity="common" picurl="https://mocandragon.github.io/sets/HUN-files/img/102.png" num="139">HUN</set>
+			<set rarity="common" picurl="https://mocandragon.github.io/sets/HUN-files/img/102.png" num="140">HUN</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -2022,7 +2022,7 @@ Draw a card.</text>
 ---
 
 Draw a card.</text>
-			<set rarity="common" picurl="https://mocandragon.github.io/sets/HUN-files/img/103.png" num="146">HUN</set>
+			<set rarity="common" picurl="https://mocandragon.github.io/sets/HUN-files/img/103.png" num="147">HUN</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -2042,7 +2042,7 @@ Draw a card.</text>
 ---
 
 Draw a card.</text>
-			<set rarity="common" picurl="https://mocandragon.github.io/sets/HUN-files/img/104.png" num="141">HUN</set>
+			<set rarity="common" picurl="https://mocandragon.github.io/sets/HUN-files/img/104.png" num="142">HUN</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -2062,7 +2062,7 @@ Draw a card.</text>
 ---
 
 Draw a card.</text>
-			<set rarity="common" picurl="https://mocandragon.github.io/sets/HUN-files/img/105.png" num="142">HUN</set>
+			<set rarity="common" picurl="https://mocandragon.github.io/sets/HUN-files/img/105.png" num="143">HUN</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -2082,7 +2082,7 @@ Draw a card.</text>
 ---
 
 Draw a card.</text>
-			<set rarity="common" picurl="https://mocandragon.github.io/sets/HUN-files/img/106.png" num="144">HUN</set>
+			<set rarity="common" picurl="https://mocandragon.github.io/sets/HUN-files/img/106.png" num="145">HUN</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -2102,7 +2102,7 @@ Draw a card.</text>
 ---
 
 Draw a card.</text>
-			<set rarity="common" picurl="https://mocandragon.github.io/sets/HUN-files/img/107.png" num="138">HUN</set>
+			<set rarity="common" picurl="https://mocandragon.github.io/sets/HUN-files/img/107.png" num="139">HUN</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -2122,7 +2122,7 @@ Draw a card.</text>
 ---
 
 Draw a card.</text>
-			<set rarity="common" picurl="https://mocandragon.github.io/sets/HUN-files/img/108.png" num="143">HUN</set>
+			<set rarity="common" picurl="https://mocandragon.github.io/sets/HUN-files/img/108.png" num="144">HUN</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -2142,7 +2142,7 @@ Draw a card.</text>
 ---
 
 Draw a card.</text>
-			<set rarity="common" picurl="https://mocandragon.github.io/sets/HUN-files/img/109.png" num="140">HUN</set>
+			<set rarity="common" picurl="https://mocandragon.github.io/sets/HUN-files/img/109.png" num="141">HUN</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -2162,7 +2162,7 @@ Draw a card.</text>
 ---
 
 Draw a card.</text>
-			<set rarity="common" picurl="https://mocandragon.github.io/sets/HUN-files/img/110.png" num="145">HUN</set>
+			<set rarity="common" picurl="https://mocandragon.github.io/sets/HUN-files/img/110.png" num="146">HUN</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -2179,7 +2179,7 @@ Draw a card.</text>
 			<text>Flying, lifelink
 This creature enters with a +1/+1 counter on it.
 When this creature dies, each player loses 2 life.</text>
-			<set rarity="special" picurl="https://mocandragon.github.io/sets/HUN-files/img/111.png" num="155">HUN</set>
+			<set rarity="special" picurl="https://mocandragon.github.io/sets/HUN-files/img/111.png" num="156">HUN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2254,7 +2254,7 @@ Capitalize {4}{B}: Each opponent loses 2 life. (For capitalize costs, removing c
 			<text>As an additional cost to cast this spell, capitalize {6}. (For capitalize costs, removing counters from your creatures and sacrificing artifacts and/or tokens helps pay. Each counter pays for {1}, and each permanent sacrificed pays for {2}.)
 Flying
 At the beginning of your end step, create a 0/0 black Germ creature token. Put X +1/+1 counters on it, where X is the number of permanents you sacrificed this turn.</text>
-			<set rarity="masterpiece" picurl="https://mocandragon.github.io/sets/HUN-files/img/115.png" num="3">HUN</set>
+			<set rarity="masterpiece" picurl="https://mocandragon.github.io/sets/HUN-files/img/115.png" num="4">HUN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2271,7 +2271,7 @@ At the beginning of your end step, create a 0/0 black Germ creature token. Put X
 		<card>
 			<name>Placid Arzuros</name>
 			<text>Whenever a creature you control attacks alone, you gain 2 life.</text>
-			<set rarity="masterpiece" picurl="https://mocandragon.github.io/sets/HUN-files/img/116.png" num="1">HUN</set>
+			<set rarity="masterpiece" picurl="https://mocandragon.github.io/sets/HUN-files/img/116.png" num="2">HUN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2288,7 +2288,7 @@ At the beginning of your end step, create a 0/0 black Germ creature token. Put X
 			<name>Pyre Rakna-Kadaki</name>
 			<text>Menace, reach
 Whenever you invade, create a 2/1 red Spider creature token with reach. (You invade when you cast spells from outside your hand, or nontoken creatures you control that weren&apos;t cast enter.)</text>
-			<set rarity="masterpiece" picurl="https://mocandragon.github.io/sets/HUN-files/img/117.png" num="4">HUN</set>
+			<set rarity="masterpiece" picurl="https://mocandragon.github.io/sets/HUN-files/img/117.png" num="5">HUN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2306,7 +2306,7 @@ Whenever you invade, create a 2/1 red Spider creature token with reach. (You inv
 			<name>CG03 — Migratory Seikret</name>
 			<text>Trample
 {2}{G}: This creature gets +X/+0 until end of turn, where X is the greatest power among creatures you control. Activate only if this creature is attacking alone and only once each turn.</text>
-			<set rarity="masterpiece" picurl="https://mocandragon.github.io/sets/HUN-files/img/118.png" num="5">HUN</set>
+			<set rarity="masterpiece" picurl="https://mocandragon.github.io/sets/HUN-files/img/118.png" num="6">HUN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2323,7 +2323,7 @@ Whenever you invade, create a 2/1 red Spider creature token with reach. (You inv
 			<name>CU07 — Royal Ludroth</name>
 			<text>You may cast this spell as though it had flash if you capitalize {2} as an additional cost to cast it. (For capitalize costs, removing counters from your creatures and sacrificing artifacts and/or tokens helps pay. Each counter pays for {1}, and each permanent sacrificed pays for {2}.)
 Islandcycling {2} ({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="masterpiece" picurl="https://mocandragon.github.io/sets/HUN-files/img/119.png" num="2">HUN</set>
+			<set rarity="masterpiece" picurl="https://mocandragon.github.io/sets/HUN-files/img/119.png" num="3">HUN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2378,7 +2378,7 @@ When this permanent enters, target opponent reveals their hand. You choose a non
 Shah Dalamadur enters tapped with a +1/+1 counter on it.
 If Shah Dalamadur would untap, if its power is less than 30, it doesn&apos;t untap.
 Whenever a source you control deals damage, put that many +1/+1 counters on Shah Dalamadur.</text>
-			<set rarity="special" picurl="https://mocandragon.github.io/sets/HUN-files/img/122.png" num="167">HUN</set>
+			<set rarity="special" picurl="https://mocandragon.github.io/sets/HUN-files/img/122.png" num="168">HUN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2415,7 +2415,7 @@ Whenever one or more counters are removed from a creature you control, draw a ca
 			<name>Wyverian Scout</name>
 			<text>Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
 Whenever another creature you control attacks alone, put a +1/+1 counter on this creature.</text>
-			<set rarity="special" picurl="https://mocandragon.github.io/sets/HUN-files/img/124.png" num="161">HUN</set>
+			<set rarity="special" picurl="https://mocandragon.github.io/sets/HUN-files/img/124.png" num="162">HUN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2451,7 +2451,7 @@ Whenever another creature you control attacks alone, mill a card. If that card i
 			<name>Bunny Dango</name>
 			<text>When you cast this spell, copy it. (The copy becomes a token.)
 {2}, {T}, Sacrifice this artifact: Target player gains 3 life. Put a +1/+1 counter on up to one target creature. Activate only as a sorcery.</text>
-			<set rarity="uncommon" picurl="https://mocandragon.github.io/sets/HUN-files/img/126.png" num="132">HUN</set>
+			<set rarity="uncommon" picurl="https://mocandragon.github.io/sets/HUN-files/img/126.png" num="133">HUN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2592,7 +2592,7 @@ Destructive Emergence deals 6 damage to target creature or battle.</text>
 			<name>Wyverian Chief</name>
 			<text>When this creature enters, create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)
 Tokens you control have exalted. (Whenever a creature you control attacks alone, it gets +1/+1 until end of turn for each instance of exalted among your permanents.)</text>
-			<set rarity="uncommon" picurl="https://mocandragon.github.io/sets/HUN-files/img/134.png" num="121">HUN</set>
+			<set rarity="uncommon" picurl="https://mocandragon.github.io/sets/HUN-files/img/134.png" num="122">HUN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2704,7 +2704,7 @@ Whenever this creature attacks, you may put a stun counter on it. If you do, dou
 		<card>
 			<name>CB03 — Beetleclad Bruiser</name>
 			<text>{1}, Sacrifice a token: Put a +1/+1 counter on this creature. Activate only once each turn.</text>
-			<set rarity="special" picurl="https://mocandragon.github.io/sets/HUN-files/img/139.png" num="154">HUN</set>
+			<set rarity="special" picurl="https://mocandragon.github.io/sets/HUN-files/img/139.png" num="155">HUN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2720,8 +2720,8 @@ Whenever this creature attacks, you may put a stun counter on it. If you do, dou
 		</card>
 		<card>
 			<name>CW10 — Transporter Halk</name>
-			<text>Flying
-When this creature enters, create a 2/2 white Human Ranger creature token.</text>
+			<text>Flying[b]
+[/b]When this creature enters, create a 2/2 white Human Ranger creature token.</text>
 			<set rarity="common" picurl="https://mocandragon.github.io/sets/HUN-files/img/140.png" num="12">HUN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2735,7 +2735,7 @@ When this creature enters, create a 2/2 white Human Ranger creature token.</text
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="1">White Ranger Token</related>
+			<related count="1">Human Ranger.1</related>
 		</card>
 		<card>
 			<name>CU13 — Prey of the Qurio</name>
@@ -2761,7 +2761,7 @@ Enchanted creature loses all abilities and has base power and toughness 1/1.</te
 			<text>When this Equipment enters, create a 1/1 red Human Ranger creature token and attach this Equipment to it.
 Equipped creature gets +2/+1.
 Whenever equipped creature deals combat damage to a creature, tap that creature and put a stun counter on it.
-Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)</text>
+[b]Equip[/b] {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)</text>
 			<set rarity="common" picurl="https://mocandragon.github.io/sets/HUN-files/img/142.png" num="25">HUN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2812,7 +2812,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 		</card>
 		<card>
 			<name>CU04 — Great Jagras</name>
-			<text>Vigilance
+			<text>[b]Vigilance[/b]
 This creature enters with a shield counter on it. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)</text>
 			<set rarity="common" picurl="https://mocandragon.github.io/sets/HUN-files/img/145.png" num="26">HUN</set>
 			<prop>
@@ -2852,7 +2852,7 @@ Whenever Frederica attacks, create a tapped and attacking token that&apos;s a co
 Enchant creature
 When this Aura enters, put a shield counter on enchanted creature. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)
 Enchanted creature gets +1/+1.</text>
-			<set rarity="common" picurl="https://mocandragon.github.io/sets/HUN-files/img/147.png" num="129">HUN</set>
+			<set rarity="common" picurl="https://mocandragon.github.io/sets/HUN-files/img/147.png" num="130">HUN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2869,7 +2869,7 @@ Enchanted creature gets +1/+1.</text>
 			<name>Weapon Maintenance</name>
 			<text>When this enchantment enters, choose target equipment card or card with salvage in your graveyard. Return it to the battlefield. If it has salvage, it enters transformed.
 {1}{R}{W}: Put a hone counter on target Equipment you control without one on it. It gains &quot;Equipped creature gets +1/+1.&quot; Attach it to target creature you control.</text>
-			<set rarity="rare" picurl="https://mocandragon.github.io/sets/HUN-files/img/148.png" num="120">HUN</set>
+			<set rarity="rare" picurl="https://mocandragon.github.io/sets/HUN-files/img/148.png" num="121">HUN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3005,7 +3005,7 @@ You may cast spells exiled with Nakarkos and spend mana of any type to cast them
 			<text>Ward—Sacrifice a creature.
 Whenever one or more permanent cards are put into graveyards from anywhere, exile them and put a +1/+1 counter on Nakarkos.
 You may cast permanent spells exiled with Nakarkos and spend mana of any type to cast them by removing two counters from Nakarkos in addition to paying their other costs.</text>
-			<set rarity="masterpiece" picurl="https://mocandragon.github.io/sets/HUN-files/img/154.png" num="6">HUN</set>
+			<set rarity="masterpiece" picurl="https://mocandragon.github.io/sets/HUN-files/img/154.png" num="7">HUN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3077,7 +3077,7 @@ Flashback {1}{G}. Flashback only as a sorcery. (You may cast this card from your
 		<card>
 			<name>CW15 — Power Chord</name>
 			<text>Target creature you control gets +2/+2 until end of turn. If a permanent left the battlefield under your control this turn, put two +1/+1 counters on that creature instead.</text>
-			<set rarity="special" picurl="https://mocandragon.github.io/sets/HUN-files/img/158.png" num="150">HUN</set>
+			<set rarity="special" picurl="https://mocandragon.github.io/sets/HUN-files/img/158.png" num="151">HUN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3254,7 +3254,7 @@ Forestcycling {2} ({2}, Discard this card: Search your library for a Forest card
 ---
 
 Draw a card.</text>
-			<set rarity="common" picurl="https://mocandragon.github.io/sets/HUN-files/img/167.png" num="137">HUN</set>
+			<set rarity="common" picurl="https://mocandragon.github.io/sets/HUN-files/img/167.png" num="138">HUN</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -3416,7 +3416,7 @@ Each opponent discards a card and loses 2 life.</text>
 			<name>CA05 — Hunting Trophy</name>
 			<text>When this artifact enters, put a +1/+1 counter on up to one target creature.
 {T}: Add one mana of any color.</text>
-			<set rarity="common" picurl="https://mocandragon.github.io/sets/HUN-files/img/176.png" num="135">HUN</set>
+			<set rarity="common" picurl="https://mocandragon.github.io/sets/HUN-files/img/176.png" num="136">HUN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3429,8 +3429,8 @@ Each opponent discards a card and loses 2 life.</text>
 		</card>
 		<card>
 			<name>CA02 — Marionette Spider</name>
-			<text>Flash
-Reach
+			<text>Flash[b]
+[/b]Reach
 When this creature enters, tap up to one target creature.</text>
 			<set rarity="common" picurl="https://mocandragon.github.io/sets/HUN-files/img/177.png" num="2">HUN</set>
 			<prop>
@@ -3449,7 +3449,7 @@ When this creature enters, tap up to one target creature.</text>
 			<text>When this Equipment enters, attach it to target Ranger you control.
 Equipped creature gets +2/+1.
 Equip {2}</text>
-			<set rarity="common" picurl="https://mocandragon.github.io/sets/HUN-files/img/178.png" num="136">HUN</set>
+			<set rarity="common" picurl="https://mocandragon.github.io/sets/HUN-files/img/178.png" num="137">HUN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3469,7 +3469,7 @@ Crew 3
 ---
 
 Draw two cards, then discard two cards.</text>
-			<set rarity="common" picurl="https://mocandragon.github.io/sets/HUN-files/img/179.png" num="133">HUN</set>
+			<set rarity="common" picurl="https://mocandragon.github.io/sets/HUN-files/img/179.png" num="134">HUN</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -3580,6 +3580,49 @@ Equip {2}</text>
 			</prop>
 			<tablerow>1</tablerow>
 			<token>1</token>
+		</card>
+		<card>
+			<name>Ruthless Yian-Garuga</name>
+			<text>Flying
+Whenever you sacrifice one or more permanents, put a +1/+1 counter on this creature. This ability triggers only once each turn.
+Salvage {U}{B} (You may cast this card from your graveyard transformed for its Salvage cost by sacrificing an artifact or exiling another card with salvage from your graveyard.)
+---
+(Back): Scarred Wolf-Bird&apos;s Regalia</text>
+			<set rarity="uncommon" picurl="https://mocandragon.github.io/sets/HUN-files/img/186_front.png" num="118a">HUN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Bird Drake</type>
+				<maintype>Creature</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Scarred Wolf-Bird&apos;s Regalia</related>
+		</card>
+		<card>
+			<name>Scarred Wolf-Bird&apos;s Regalia</name>
+			<text>Salvaged (When this enters, attach it to target creature you control. If it would be put into a graveyard from anywhere, exile it instead.)
+Whenever you sacrifice one or more permanents, put a +1/+1 counter on equipped creature. It gains[b] [/b]flying[b] [/b]until end of turn. This ability triggers only once each turn.
+Equip {2}
+---
+(Front): Ruthless Yian-Garuga</text>
+			<set rarity="uncommon" picurl="https://mocandragon.github.io/sets/HUN-files/img/186_back.png" num="118b">HUN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Ruthless Yian-Garuga</related>
 		</card>
 	</cards>
 </cockatrice_carddatabase>
